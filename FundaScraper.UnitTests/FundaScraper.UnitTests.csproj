@@ -49,6 +49,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FundaRepositoryTests.cs" />
+    <Compile Include="FundaV2ParserTests.cs" />
+    <Compile Include="FundaV1ParserTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -66,8 +68,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="results\FundaNewLayout.txt" />
     <Content Include="results\FundaResult.txt" />
     <Content Include="results\SingleObjectWithSpecialCharacter.txt" />
+    <Content Include="results\SingleRowIncompletePostCodeNewLayout.txt" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resources.resx">

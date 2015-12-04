@@ -62,6 +62,23 @@ namespace FundaScraper.UnitTests.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to 
+        ///&lt;!DOCTYPE html&gt;
+        ///
+        ///&lt;html class=&quot;js supports-placeholder fonts-loaded&quot; lang=&quot;nl&quot;&gt;
+        ///
+        ///&lt;head prefix=&quot;og: http://ogp.me/ns#&quot;&gt;
+        ///    &lt;title&gt;Huizen te koop in Land Nederland [funda]&lt;/title&gt;
+        ///    &lt;meta charset=&quot;utf-8&quot;&gt;
+        ///&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;&lt;script type=&quot;text/javascript&quot;&gt;window.NREUM||(NREUM={});NREUM.info = {&quot;beacon&quot;:&quot;bam.nr-data.net&quot;,&quot;errorBeacon&quot;:&quot;bam.nr-data.net&quot;,&quot;licenseKey&quot;:&quot;a0d846db61&quot;,&quot;applicationID&quot;:&quot;9180254&quot;,&quot;transactionName&quot;:&quot;YwZTZUVRWBJRUkVfXlpMf15FXVcNWUtUUh4e&quot;,&quot;queueT [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string FundaNewLayout {
+            get {
+                return ResourceManager.GetString("FundaNewLayout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 
         ///
         ///&lt;!DOCTYPE html&gt;
         ///&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;nl&quot;
@@ -93,6 +110,23 @@ namespace FundaScraper.UnitTests.Properties {
         internal static string SingleObjectWithSpecialCharacter {
             get {
                 return ResourceManager.GetString("SingleObjectWithSpecialCharacter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 
+        ///&lt;!DOCTYPE html&gt;
+        ///
+        ///&lt;html class=&quot;js supports-placeholder fonts-loaded&quot; lang=&quot;nl&quot;&gt;
+        ///
+        ///&lt;head prefix=&quot;og: http://ogp.me/ns#&quot;&gt;
+        ///    &lt;title&gt;Huizen te koop in Lijnden [funda]&lt;/title&gt;
+        ///    &lt;meta charset=&quot;utf-8&quot;&gt;
+        ///&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;&lt;script type=&quot;text/javascript&quot;&gt;window.NREUM||(NREUM={});NREUM.info = {&quot;beacon&quot;:&quot;bam.nr-data.net&quot;,&quot;errorBeacon&quot;:&quot;bam.nr-data.net&quot;,&quot;licenseKey&quot;:&quot;a0d846db61&quot;,&quot;applicationID&quot;:&quot;9180254&quot;,&quot;transactionName&quot;:&quot;YwZTZUVRWBJRUkVfXlpMf15FXVcNWUtUUh4e&quot;,&quot;queueTime&quot;:0, [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string SingleRowIncompletePostCodeNewLayout {
+            get {
+                return ResourceManager.GetString("SingleRowIncompletePostCodeNewLayout", resourceCulture);
             }
         }
     }
