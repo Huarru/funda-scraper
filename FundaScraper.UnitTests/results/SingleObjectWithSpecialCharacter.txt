@@ -1,0 +1,1514 @@
+﻿
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl"
+lang="nl">
+<head>
+    <script src="//cdn.optimizely.com/js/2408631130.js"></script>
+        
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE, requiresActiveX=true, Chrome=8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a0d846db61","applicationID":"1585411","transactionName":"YwZTZUVRWBJRUkVfXlpMfGd0H3AUXlVQYV5aBl9rWFVdIl9fRUReWA9UQxhjXg5HY1RFRFgXfVhERA==","queueTime":0,"applicationTime":134,"ttGuid":"11A12E421AC7A6D3","agent":"js-agent.newrelic.com/nr-768.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+    
+    <meta name="keywords" content="funda, koopwoningen, huurwoningen, woning, huis, huizen, appartement, appartementen, makelaar, makelaars, koop, huur, nieuwbouw, recreatie, verkoop, verkopen, verhuur, verhuren, aankoop, aankopen, NVM, VBO, VastgoedPro" />
+    
+<link rel="canonical" href="http://www.funda.nl/koop/s-graveland/" />
+
+
+<meta name="robots" content="noindex, follow" />
+
+<meta name="description" content="Bekijk op funda alle 1 huizen die te koop staan in 's-Graveland." />
+
+    <meta name="application-name" content="funda" />
+    <meta name="msapplication-tooltip" content="Zoek huizen en appartementen in Nederland" />
+    <meta name="msapplication-TileImage" content="/img/favicon/tile.png">
+    <meta name="msapplication-TileColor" content="#EE6A0F">
+    <meta name="msapplication-task" content="name=Zoek huizen;action-uri=/;icon-uri=/img/favicon/funda.ico" />
+    <meta name="msapplication-task" content="name=Zoeken op kaart;action-uri=/koop/kaart/;icon-uri=/img/favicon/funda.ico" />
+    <meta name="msapplication-task" content="name=Zoek makelaars;action-uri=/makelaars/;icon-uri=/img/favicon/funda.ico" />
+    <meta name="msapplication-task" content="name=Mijn funda;action-uri=/mijn/;icon-uri=/img/favicon/funda.ico" />
+    
+    <title>
+        
+    Huizen te koop in 1243 KH en &#39;s-Graveland [funda]
+
+    </title>
+    
+
+<link rel="dns-prefetch" href="http://cloud.funda.nl" />
+<link rel="dns-prefetch" href="http://images.funda.nl" />
+<link rel="dns-prefetch" href="http://www.funda.nl" />
+<link rel="dns-prefetch" href="http://www.status.fundadesk.nl" />
+<link rel="dns-prefetch" href="http://mt0.funda.nl/" />
+<link rel="dns-prefetch" href="http://mt1.funda.nl/" />
+<link rel="dns-prefetch" href="http://mt2.funda.nl/" />
+<link rel="dns-prefetch" href="http://mt3.funda.nl/" />
+<link rel="dns-prefetch" href="https://mts0.googleapis.com/" />
+<link rel="dns-prefetch" href="https://mts1.googleapis.com/" />
+<link rel="dns-prefetch" href="https://maps.gstatic.com/" />
+<link rel="dns-prefetch" href="http://www.google.com/" />
+<link rel="dns-prefetch" href="http://www.google-analytics.com/" />
+<link rel="dns-prefetch" href="http://www.googletagservices.com/" />
+<link rel="dns-prefetch" href="http://partner.googleadservices.com/" />
+<link rel="dns-prefetch" href="http://b.scorecardresearch.com/" />
+<link rel="dns-prefetch" href="http://loc1.hitsprocessor.com/" />
+<link rel="dns-prefetch" href="http://cdn.floorplanner.com/" />
+<link rel="dns-prefetch" href="http://zb.funda.info" />
+
+        <link rel="shortcut icon" href="/img/favicon/funda.ico" type="image/x-icon" />
+    <script>(function (w, d, u) { w.readyQ = []; w.bindReadyQ = []; function p(x, y) { if (x == "ready") { w.bindReadyQ.push(y); } else { w.readyQ.push(x); } }; var a = { ready: p, bind: p }; w.$ = w.jQuery = function (f) { if (f === d || f === u) { return a } else { p(f) } } })(window, document)</script>
+    <link rel="stylesheet" type="text/css" media="all" href="//static.funda.nl/resources/css.ashx?keys=/css/login.css|/css/tour.css|/css/hdr-ftr.css|/css/global.css|/css/funda.result-list.css|/css/realtor.css&hash=2985506443"></link><!--[if IE 6]><link rel="stylesheet" type="text/css" media="all" href="//static.funda.nl/resources/css.ashx?keys=/css/ie6.css&hash=292740309"></link><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="all" href="//static.funda.nl/resources/css.ashx?keys=/css/ie7.css&hash=760771649"></link><![endif]-->
+
+    
+    
+
+
+    
+    <link rel='alternate' media='handheld' href='http://m.funda.nl/koop/s-graveland/1243kh/' />
+    
+
+   <link rel="alternate" title="Huizen te koop in 1243 KH en &#39;s-Graveland [funda]" type="application/rss+xml" href="http://partnerapi.funda.nl/feeds/Aanbod.svc/rss/?type=koop&zo=%2fs-graveland%2f1243kh%2f" />
+
+    
+    
+
+
+
+<script type="text/javascript">
+    // DoubleClick (Ads)
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+
+
+</head>
+
+<body id="funda" class="nl" onunload="if(window.GUnload)GUnload();">
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3168440-16']);
+    _gaq.push(['_gat._forceSSL']);
+    _gaq.push(['_gat._anonymizeIp']);
+  
+    var _GATag = 'koop/resultaatlijst';
+    _gaq.push(['_setCustomVar', 1, 'is_ingelogd', '100', 3]);
+    _gaq.push(['_setCustomVar', 2, 'taal', 'nl', 3]);
+    _gaq.push(['_trackPageview', 'koop/resultaatlijst']);
+  
+    function LogGAEventFD(categorie, action, value) {
+        _gaq.push(['_trackEvent', categorie, action, value]);
+    }
+</script>
+
+    
+
+
+	<div class="results koop">
+	    
+
+<div id="hdr">
+    <div class="pg-width">
+        
+<div id="logo" class="">
+    
+        <a href="/">
+            
+            <img src="/img/hdr/funda-logo.gif" alt="funda" />
+                        
+        </a>
+    
+</div>
+
+        <div id="nav-hdr">
+            
+<span id="nav-hdr-login">
+
+
+<strong>Welkom</strong>
+<span class='my-menu-container'>
+<a id="my-menu-button" class="" rel="nofollow" href="/mijn/">
+    <span>info@jeroenpot.nl</span>
+</a>
+    <div class="my-menu-dropdown-container">
+<div id="my-menu-dropdown" class="my-menu-dropdown hide" style="visibility: visible; top: 26px;">
+    <div class="nav-dropdown">
+        <div class="nav-dropdown-shadow"></div>
+        <ul>
+            <li class="lst"><a href="/mijn/">Overzicht</a></li>
+            <li><a href="/mijn/bewaard/">Bewaard woningaanbod</a></li>
+            <li><a href="/mijn/nieuw/">Nieuw woningaanbod</a></li>
+            <li class="lst"><a href="/mijn/bekeken/">Bekeken woningaanbod</a></li>
+            
+            <li><a href="/mijn/accountgegevens/">Accountgegevens</a></li>
+            <li class="lst"><a href="/mijn/e-mailnotificatie/">E-mailinstellingen</a></li>
+            <li class="logout"><a href="/redirect/logout/?returnurl=%2fkoop%2fs-graveland%2f1243kh%2f">Uitloggen</a></li>
+        </ul>
+    </div>
+</div>
+    </div>
+</span>
+
+
+<script>
+    (function () {
+        $(document).ready(function () {
+            var selectors = '';
+            selectors += '#funda #hdr #nav-hdr .my-menu-dropdown .nav-dropdown ul li a[href="/mijn/"], ';
+            selectors += '#funda #hdr #nav-hdr .my-menu-dropdown .nav-dropdown ul li a[href="/mijn/bekeken/"], ';
+            selectors += '#funda #hdr #nav-hdr .my-menu-dropdown .nav-dropdown ul li a[href="/mijn/tips/"], ';
+            selectors += '#funda #hdr #nav-hdr .my-menu-dropdown .nav-dropdown ul li a[href="/mijn/accountgegevens/"], ';
+            selectors += '#funda #hdr #nav-hdr .my-menu-dropdown .nav-dropdown ul li a[href="/mijn/e-mailnotificatie/"], ';
+            selectors += '#funda #hdr #nav-hdr .my-menu-dropdown .nav-dropdown ul li a[href^="/redirect/logout/"]';
+
+            $(selectors).each(function () {
+                $(this).parent().remove();
+            });
+
+            $("#my-menu-button").Dropdown({});
+        });
+    })();
+</script>
+
+</span>
+      	</div>
+    </div>
+    
+    <div id="nav-global">
+    
+
+<ul class="navigation-list" role="tabpanel">
+
+    <li class="nav-item has-subnav active">
+        <a  href="/">Woningaanbod</a>
+           
+            <div class="section sub-nav">
+                <ul class="link-list">
+                
+                    <li>
+                        <a href="/koop">Koopwoningen</a>
+                    </li>
+                
+                    <li>
+                        <a href="/huur">Huurwoningen</a>
+                    </li>
+                
+                    <li>
+                        <a href="/nieuwbouw">Nieuwbouw</a>
+                    </li>
+                
+                    <li>
+                        <a href="/recreatie">Recreatie</a>
+                    </li>
+                
+                    <li>
+                        <a href="/europe">Europees aanbod</a>
+                    </li>
+                
+                </ul>
+            </div>
+        
+    </li>
+
+    <li class="nav-item ">
+        <a  href="/huis-plaatsen/">Huis plaatsen</a>
+        
+    </li>
+
+    <li class="nav-item ">
+        <a  href="/makelaars/">NVM makelaars</a>
+        
+    </li>
+
+    <li class="nav-item ">
+        <a  rel="nofollow" href="/mijn/">Mijn funda</a>
+        
+    </li>
+
+</ul>
+    </div>
+</div>
+
+
+	    <div id="main">
+	        <div class="pg-width">
+                
+		        <div class="section path-nav">
+			        
+	
+<div class="dropdown-box type-list">
+    
+    <a class="select-list-field " href="#" title=""  >
+        <strong>Koopwoningen</strong>
+    </a>
+    
+    <div class="select-list" style="display: none;">
+        <ul class="option-list">
+            
+<li  class="selected" >
+<a  href="#" >Koopwoningen</a>
+</li>
+<li >
+<a  href="/huur/s-graveland/1243kh/" >Huurwoningen</a>
+</li>
+<li >
+<a  href="/nieuwbouw/s-graveland/1243kh/" >Nieuwbouwprojecten</a>
+</li>
+<li >
+<a  href="/recreatie/s-graveland/1243kh/" >Recreatiewoning</a>
+</li>
+<li >
+<a  href="/europe/heel-europa/" >Europese woningen</a>
+</li>
+        </ul>
+    </div>
+    
+</div>
+<div class="dropdown-box location-select">
+    
+    <a class="select-list-field " href="#" title="Provincie wijzigen..."  >
+        <strong>Noord-Holland</strong>
+    </a>
+    
+    <div class="select-list" style="display: none;">
+        <ul class="option-list">
+            
+<li  class="clear" >
+<a  href="/koop/heel-nederland/" >Verwijderen</a>
+</li>
+<li >
+<a  href="/koop/provincie-zuid-holland/1243kh/" >Zuid-Holland</a>
+</li>
+<li >
+<a  href="/koop/provincie-limburg/1243kh/" >Limburg</a>
+</li>
+<li  class="selected" >
+<a  href="/koop/provincie-noord-holland/1243kh/" >Noord-Holland</a>
+</li>
+<li >
+<a  href="/koop/provincie-utrecht/1243kh/" >Utrecht</a>
+</li>
+<li >
+<a  href="/koop/provincie-noord-brabant/1243kh/" >Noord-Brabant</a>
+</li>
+<li >
+<a  class="open-popup ajax-content link-more link-more-meer"  popupclass="popup-to-filter" rel="popup-content-filter-meerProvincieNaam&amp;originalFriendlyUrl=/koop/s-graveland/1243kh/"  href="/koop/bladeren/s-graveland/1243kh/?meer=locatie" >Meer...</a>
+</li>
+        </ul>
+    </div>
+    
+</div>
+<div class="dropdown-box location-select">
+    
+    <a class="select-list-field " href="#" title="Regio wijzigen..."  >
+        <strong>Het Gooi en Vechtstreek</strong>
+    </a>
+    
+    <div class="select-list" style="display: none;">
+        <ul class="option-list">
+            
+<li  class="clear" >
+<a  href="/koop/provincie-noord-holland/" >Verwijderen</a>
+</li>
+<li >
+<a  href="/koop/regio-alkmaar-en-omgeving/1243kh/" >Alkmaar en omgeving</a>
+</li>
+<li >
+<a  href="/koop/regio-groot-amsterdam/1243kh/" >Groot-Amsterdam</a>
+</li>
+<li  class="selected" >
+<a  href="/koop/regio-het-gooi-en-vechtstreek/1243kh/" >Het Gooi en Vechtstreek</a>
+</li>
+<li >
+<a  href="/koop/regio-ijmond/1243kh/" >IJmond</a>
+</li>
+<li >
+<a  href="/koop/regio-kop-van-noord-holland/1243kh/" >Kop van Noord-Holland</a>
+</li>
+<li >
+<a  class="open-popup ajax-content link-more link-more-meer"  popupclass="popup-to-filter" rel="popup-content-filter-meerRegioId&amp;originalFriendlyUrl=/koop/s-graveland/1243kh/"  href="/koop/bladeren/s-graveland/1243kh/?meer=locatie" >Meer...</a>
+</li>
+        </ul>
+    </div>
+    
+</div>
+<div class="dropdown-box location-select">
+    
+    <a class="select-list-field " href="#" title="Plaatsnaam wijzigen..."  >
+        <strong>&#39;s-Graveland</strong>
+    </a>
+    
+    <div class="select-list" style="display: none;">
+        <ul class="option-list">
+            
+<li  class="clear" >
+<a  href="/koop/regio-het-gooi-en-vechtstreek/" >Verwijderen</a>
+</li>
+<li >
+<a  href="/koop/kortenhoef/1243kh/" >Kortenhoef</a>
+</li>
+<li >
+<a  href="/koop/breukeleveen/1243kh/" >Breukeleveen</a>
+</li>
+<li  class="selected" >
+<a  href="/koop/s-graveland/1243kh/" >'s-Graveland</a>
+</li>
+<li >
+<a  href="/koop/huizen/1243kh/" >Huizen</a>
+</li>
+<li >
+<a  href="/koop/hilversum/1243kh/" >Hilversum</a>
+</li>
+<li >
+<a  class="open-popup ajax-content link-more link-more-meer"  popupclass="popup-to-filter" rel="popup-content-filter-meerWoonplaats&amp;originalFriendlyUrl=/koop/s-graveland/1243kh/"  href="/koop/bladeren/s-graveland/1243kh/?meer=locatie" >Meer...</a>
+</li>
+        </ul>
+    </div>
+    
+</div>
+<div class="dropdown-box location-select">
+    
+    <a class="select-list-field " href="#" title="Postcode wijzigen..."  >
+        <strong>1243 KH</strong>
+    </a>
+    
+    <div class="select-list" style="display: none;">
+        <ul class="option-list">
+            
+<li  class="clear" >
+<a  href="/koop/s-graveland/" >Verwijderen</a>
+</li>
+        </ul>
+    </div>
+    
+</div>
+<div class="dropdown-box filter-select last">
+    
+    <a class="select-list-field " href="#" title=""  >
+        <strong>zoek met straal</strong>
+    </a>
+    
+    <div class="select-list" style="display: none;">
+        <ul class="option-list">
+            
+<li >
+<a  href="/koop/s-graveland/1243kh/+1km/" >+ 1km</a>
+</li>
+<li >
+<a  href="/koop/s-graveland/1243kh/+2km/" >+ 2km</a>
+</li>
+<li >
+<a  href="/koop/s-graveland/1243kh/+5km/" >+ 5km</a>
+</li>
+<li >
+<a  href="/koop/s-graveland/1243kh/+10km/" >+ 10km</a>
+</li>
+<li >
+<a  href="/koop/s-graveland/1243kh/+15km/" >+ 15km</a>
+</li>
+        </ul>
+    </div>
+    
+</div>
+        <!-- E-mail alerts -->
+        <a  class="iseaq-my-search " href="/redirect/setemailalert" 
+            onclick="OpenEmailAlertsPopup(); return false;">
+            <strong><span class="icon setsearch">Zoekopdracht instellen</span></strong>
+        </a>    
+        <a id="OpenEmailAlertsPopupLink" rel="popup-emailalerts" class="open-popup ajax-content" style="display:none;"></a>
+        <a id="OpenEmailinstellenPopupLink" rel="popup-emailinstellen" class="open-popup ajax-content" style="display:none;"></a>
+
+        <script type="text/javascript">
+            function OpenEmailAlertsPopup() {
+                $("#OpenEmailAlertsPopupLink").click();
+            }
+        </script>      
+    
+
+<script type="text/javascript">
+    $(function() {
+        $(".dropdown-box .option-list a").click(function() {
+            var dropdown = $(this).closest(".dropdown-box");
+            var action = "";
+            if (dropdown.hasClass("location-select") || dropdown.hasClass("property-select")) {
+                action = dropdown.children("a").attr("title").replace("wijzigen...", "");
+            } else {
+                if (dropdown.hasClass("filter-select"))
+                {
+                    action = "Straal";
+                }
+                else if (dropdown.hasClass("type-list"))
+                {
+                    action = "Soort aanbod";
+                }
+            }
+            var value = $(this).html();
+            _gaq.push(['_trackEvent', "iseaq use option", action, value])
+        });
+
+    });
+</script>
+
+                    
+ 
+	<a class="link-search" href="/koop/uitgebreid-zoeken/">Uitgebreid zoeken</a>
+
+		        </div>
+		        <table class="layout">
+		            <tr>
+			            <td class="col">
+			                
+	<ul class="link-list tab-list">
+	
+            <li class='active'><a href="/koop/s-graveland/1243kh/"><strong>Te koop</strong><span class="hits"> (1)</span></a></li>
+        
+            <li ><a href="/koop/verkocht/s-graveland/1243kh/"><strong>Verkocht</strong><span class="hits"> (2)</span></a></li>
+        
+    <li class="filter-tab">
+        <div class="section list-view-filters">
+            
+            <ul class="link-list">
+				<li>
+                    <a title="Resultaatlijst" class="icon list-icon active" 
+                        
+                        >Lijst</a>
+                </li>
+				<li>
+                    <a title="Fotogalerij" class="icon grid-icon" 
+                        
+                            href="/koop/galerij/s-graveland/1243kh/"
+                        
+                        >Galerij</a>
+                </li>
+                
+				<li>
+                    <a title="Kaart" class="icon map-icon" 
+                        
+                            href="/koop/kaart/#/s-graveland/1243kh/"
+                        
+                        >Kaart</a>
+                </li>
+                
+			</ul>
+            
+            <div class="dropdown-box sort-select">
+                <a class="select-list-field" href="#">
+                    <strong>Sorteer op...</strong>
+                </a>
+
+                <div class="select-list" style="display: none;">
+                    <ul class="option-list">
+                        
+                            <li>
+                                <a href="/koop/s-graveland/1243kh/sorteer-adres-op/">Adres</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/koop/s-graveland/1243kh/sorteer-postcode-op/">Postcode</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/koop/s-graveland/1243kh/sorteer-plaats-op/">Plaats</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/koop/s-graveland/1243kh/sorteer-woonopp-af/">Woonoppervlakte</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/koop/s-graveland/1243kh/sorteer-perceelopp-af/">Perceeloppervlakte</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/koop/s-graveland/1243kh/sorteer-kamers-af/">Kamers</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/koop/s-graveland/1243kh/sorteer-datum-af/">Datum</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/koop/s-graveland/1243kh/sorteer-prijs-op/">Vraagprijs</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/koop/s-graveland/1243kh/sorteer-makelaar-op/">Makelaar</a>
+                            </li>
+                        
+                            <li class="more-info">
+                                <a href='/about/default.aspx?pagina=/nl/algemene-teksten-funda-sites/fundanl/losse-teksten/funda-en-nvm'><i class="icon icon-info"></i>Uitleg</a>
+                            </li>
+                        
+                    </ul>
+                </div>
+            </div>            
+                
+        </div>
+    </li>
+
+	</ul>
+	<table class="layout listing">
+        <tr>
+			<td class="col size-1">
+                <div class="filter">
+				    
+    <h2>Prijsklasse van/tot</h2>
+    
+    <fieldset id="FixedPriceRange" class="filter-fields">
+        
+        <form action="/fundawonenzoek/updatepricefilter/koop/s-graveland/1243kh/" method="post">
+            
+            
+            <span class="select-field">
+                <select class="frm-full" id="PrijsVan" name="FormModel.PriceFrom" onchange="WaardeVan_Change(&#39;PrijsVan&#39;, &#39;PrijsTot&#39;)"><option value="popup-content-filter-andersPrijsVan&amp;originalFriendlyUrl=~/koop/s-graveland/1243kh/">Anders...</option>
+<option selected="selected" value="0">€ 0</option>
+<option value="50000">€ 50.000</option>
+<option value="75000">€ 75.000</option>
+<option value="100000">€ 100.000</option>
+<option value="125000">€ 125.000</option>
+<option value="150000">€ 150.000</option>
+<option value="175000">€ 175.000</option>
+<option value="200000">€ 200.000</option>
+<option value="225000">€ 225.000</option>
+<option value="250000">€ 250.000</option>
+<option value="275000">€ 275.000</option>
+<option value="300000">€ 300.000</option>
+<option value="325000">€ 325.000</option>
+<option value="350000">€ 350.000</option>
+<option value="375000">€ 375.000</option>
+<option value="400000">€ 400.000</option>
+<option value="450000">€ 450.000</option>
+<option value="500000">€ 500.000</option>
+<option value="550000">€ 550.000</option>
+<option value="600000">€ 600.000</option>
+<option value="650000">€ 650.000</option>
+<option value="700000">€ 700.000</option>
+<option value="750000">€ 750.000</option>
+<option value="800000">€ 800.000</option>
+<option value="900000">€ 900.000</option>
+<option value="1000000">€ 1.000.000</option>
+<option value="1250000">€ 1.250.000</option>
+<option value="1500000">€ 1.500.000</option>
+<option value="2000000">€ 2.000.000</option>
+</select>
+            </span>
+            <span class="select-field">
+                <select class="frm-full" id="PrijsTot" name="FormModel.PriceTo" onchange="WaardeTot_Change(&#39;PrijsVan&#39;, &#39;PrijsTot&#39;)"><option value="popup-content-filter-andersPrijsTot&amp;originalFriendlyUrl=~/koop/s-graveland/1243kh/">Anders...</option>
+<option value="50000">€ 50.000</option>
+<option value="75000">€ 75.000</option>
+<option value="100000">€ 100.000</option>
+<option value="125000">€ 125.000</option>
+<option value="150000">€ 150.000</option>
+<option value="175000">€ 175.000</option>
+<option value="200000">€ 200.000</option>
+<option value="225000">€ 225.000</option>
+<option value="250000">€ 250.000</option>
+<option value="275000">€ 275.000</option>
+<option value="300000">€ 300.000</option>
+<option value="325000">€ 325.000</option>
+<option value="350000">€ 350.000</option>
+<option value="375000">€ 375.000</option>
+<option value="400000">€ 400.000</option>
+<option value="450000">€ 450.000</option>
+<option value="500000">€ 500.000</option>
+<option value="550000">€ 550.000</option>
+<option value="600000">€ 600.000</option>
+<option value="650000">€ 650.000</option>
+<option value="700000">€ 700.000</option>
+<option value="750000">€ 750.000</option>
+<option value="800000">€ 800.000</option>
+<option value="900000">€ 900.000</option>
+<option value="1000000">€ 1.000.000</option>
+<option value="1250000">€ 1.250.000</option>
+<option value="1500000">€ 1.500.000</option>
+<option value="2000000">€ 2.000.000</option>
+<option selected="selected" value="NoMax">Geen maximum</option>
+</select>
+            </span>
+
+            
+
+            <span class="button-alt">
+                <input type="submit" value="Prijs aanpassen" class="frm-full"  />
+            </span>
+        </form>
+    </fieldset>
+
+<script>
+
+    $().ready(function () {
+        var priceFromPrevSelectedValue = $('#PrijsVan').attr('value');
+        var priceToPrevSelectedValue = $('#PrijsTot').attr('value');
+        
+
+        $('#PrijsTot').bind("change", function () {
+            if ($('#PrijsTot option:eq(0)').is(':selected')) {
+                Popup.load(function () { }, false, $(this).attr('value'));
+                $('#PrijsTot').val(priceToPrevSelectedValue);
+            }
+            else {
+                priceToPrevSelectedValue = $('#PrijsTot option:selected').val();
+            }
+        });
+
+        $('#PrijsVan').bind("change", function () { 
+            if ($('#PrijsVan option:eq(0)').is(':selected')) {
+                Popup.load(function () { }, false, $(this).attr('value'));
+                $('#PrijsVan').val(priceFromPrevSelectedValue);
+            }
+            else {
+                priceFromPrevSelectedValue = $('#PrijsVan option:selected').val();
+            }
+        });
+        
+    });
+</script>
+
+
+
+<h2>Buurt</h2>
+
+<ul class="link-list filter-list">
+
+    <li>
+        <a href="/koop/s-graveland/s-graveland/" title="&#39;s-Graveland">&#39;s-Graveland</a> <span class="hits">(1)</span>
+    </li>
+    
+</ul>
+
+<h2>Soort object</h2>
+
+<ul class="link-list filter-list">
+
+    <li>
+        <a href="/koop/s-graveland/1243kh/woonhuis/" title="Woonhuis">Woonhuis</a> <span class="hits">(1)</span>
+    </li>
+    
+</ul>
+
+<h2>Soort bouw</h2>
+
+<ul class="link-list filter-list">
+
+    <li>
+        <a href="/koop/s-graveland/1243kh/bestaande-bouw/" title="Bestaande bouw">Bestaande bouw</a> <span class="hits">(1)</span>
+    </li>
+    
+</ul>
+
+<h2>Aantal kamers</h2>
+
+<ul class="link-list filter-list">
+
+    <li>
+        <a href="/koop/s-graveland/1243kh/2+kamers/" title="2+ kamers">2+ kamers</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/3+kamers/" title="3+ kamers">3+ kamers</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/4+kamers/" title="4+ kamers">4+ kamers</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/5+kamers/" title="5+ kamers">5+ kamers</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="#" 
+        popupclass="popup-to-filter"
+        class="open-popup ajax-content link-more hide link-more-anders" rel="popup-content-filter-andersAantalKamers&amp;originalFriendlyUrl=/koop/s-graveland/1243kh/" title="Anders...">Anders...</a>
+    </li>
+    
+</ul>
+
+<h2>Woonoppervlakte</h2>
+
+<ul class="link-list filter-list">
+
+    <li>
+        <a href="/koop/s-graveland/1243kh/50+woonopp/" title="50+ m&#178;">50+ m&#178;</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/75+woonopp/" title="75+ m&#178;">75+ m&#178;</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/100+woonopp/" title="100+ m&#178;">100+ m&#178;</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/150+woonopp/" title="150+ m&#178;">150+ m&#178;</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="#" 
+        popupclass="popup-to-filter"
+        class="open-popup ajax-content link-more hide link-more-anders" rel="popup-content-filter-anderstotaleWoonOppervlakteVan&amp;originalFriendlyUrl=/koop/s-graveland/1243kh/" title="Anders...">Anders...</a>
+    </li>
+    
+</ul>
+
+<h2>Aanwezigheid van</h2>
+
+<ul class="link-list filter-list">
+
+    <li>
+        <a href="/koop/s-graveland/1243kh/balkon/" title="Balkon">Balkon</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/schuur-berging/" title="Schuur/berging">Schuur/berging</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/cv-ketel/" title="C.V.-ketel">C.V.-ketel</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/dakterras/" title="Dakterras">Dakterras</a> <span class="hits">(1)</span>
+    </li>
+    
+</ul>
+
+<h2>Bouwperiode</h2>
+
+<ul class="link-list filter-list">
+
+    <li>
+        <a href="/koop/s-graveland/1243kh/bouwperiode-1971-1980/" title="1971-1980">1971-1980</a> <span class="hits">(1)</span>
+    </li>
+    
+</ul>
+
+<h2>Ligging</h2>
+
+<ul class="link-list filter-list">
+
+    <li>
+        <a href="/koop/s-graveland/1243kh/aan-water/" title="Aan water">Aan water</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/in-bosrijke-omgeving/" title="In bosrijke omgeving">In bosrijke omgeving</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/in-woonwijk/" title="In woonwijk">In woonwijk</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/vrij-uitzicht/" title="Vrij uitzicht">Vrij uitzicht</a> <span class="hits">(1)</span>
+    </li>
+    
+</ul>
+
+<h2>Extra&#39;s</h2>
+
+<ul class="link-list filter-list">
+
+    <li>
+        <a href="/koop/s-graveland/1243kh/360-fotos/" title="360&#176; foto&#39;s">360&#176; foto&#39;s</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/brochure/" title="Brochure">Brochure</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/plattegrond/" title="Plattegrond">Plattegrond</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/video/" title="Video">Video</a> <span class="hits">(1)</span>
+    </li>
+    
+</ul>
+
+<h2>Toon aanbod sinds</h2>
+
+<ul class="link-list filter-list">
+
+    <li>
+        <a href="/koop/s-graveland/1243kh/1-dag/" title="1 dag">1 dag</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/3-dagen/" title="3 dagen">3 dagen</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/5-dagen/" title="5 dagen">5 dagen</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/10-dagen/" title="10 dagen">10 dagen</a> <span class="hits">(1)</span>
+    </li>
+    
+    <li>
+        <a href="/koop/s-graveland/1243kh/30-dagen/" title="30 dagen">30 dagen</a> <span class="hits">(1)</span>
+    </li>
+    
+</ul>
+<h2>Of zoek op</h2>
+<ul class="link-list filter-list">
+
+    <li>
+        <a class="link-group open-popup ajax-content"  popupclass="popup-to-filter" rel="popup-content-filter-meerEnergielabelDefinitief&amp;originalFriendlyUrl=/koop/s-graveland/1243kh/" href="/koop/bladeren/s-graveland/1243kh/?meer=energielabeldefinitief">
+        Energielabel
+        </a>
+    </li>
+    
+    <li>
+        <a class="link-group open-popup ajax-content"  popupclass="popup-to-filter" rel="popup-content-filter-meerAantalSlaapkamers&amp;originalFriendlyUrl=/koop/s-graveland/1243kh/" href="/koop/bladeren/s-graveland/1243kh/?meer=aantalslaapkamers">
+        Slaapkamers
+        </a>
+    </li>
+    
+    <li>
+        <a class="link-group open-popup ajax-content"  popupclass="popup-to-filter" rel="popup-content-filter-zoekFreeTextField&amp;originalFriendlyUrl=/koop/s-graveland/1243kh/" href="#">
+        Omschrijving
+        </a>
+    </li>
+    
+</ul>
+
+
+<p class="buttons">
+    <a href="/koop/heel-nederland/" class="link clear">Wissen</a>
+    
+
+    <a href="/redirect/setemailalert" class="link alert" onclick="_gaq.push(['_trackEvent','Resultatenlijst','Klik op e-mail alerts (filters)','','']); OpenEmailAlertsPopup(); return false;"   >Instellen</a>
+
+</p>
+
+<script>
+    $().ready(function () {
+        $('a.open-popup.ajax-content.link-more.hide').removeClass('hide');
+        Popup.init();
+    });
+</script>
+
+                </div>
+			</td>
+			<td class="col size-3">
+				
+
+<ul class="object-list">
+    
+<li 
+ class="even nvm" >
+    
+        <a href="/koop/s-graveland/huis-49650001-zuidereinde-44/" class="object-media-wrapper "  >
+            
+    
+<img src="http://cloud.funda.nl/valentina_media/060/189/454_klein.jpg" alt="" title="" class="photo" onerror="this.src='/img/thumbs/thumb-geen-foto.gif';this.alt='';this.title='';" />
+
+
+        </a>
+    
+    <div class="specs">
+        <h3>
+            
+                <a href="/koop/s-graveland/huis-49650001-zuidereinde-44/"class="object-street " >
+                    Zuidereinde 44
+                </a>
+            
+    <!-- save button -->
+    <a class="action save"
+        id="saveObject49650001"
+        onclick="return MijnFundaClientActions.object_bewaren(this, &#39;295609dd-da6f-4c68-9552-3648de70f6f8&#39;, &#39;49650001&#39;, &#39;Koop&#39;, &#39;klik&#39;, &#39;koop/resultaatlijst&#39;, &#39;#saveObject49650001&#39;, &#39;#unsaveObject49650001&#39;)"
+        title="Bewaren"
+        data-social-action="bewaar"
+        data-social-internal-id="295609dd-da6f-4c68-9552-3648de70f6f8"
+        data-social-tiny-id="49650001"
+        data-social-soort="Koop"
+        data-social-page="klik"
+        data-social-label="koop/resultaatlijst"
+        >
+        Bewaren
+    </a>
+    <!-- unsave button -->
+    <a class="action saved"
+        id="unsaveObject49650001"
+        onclick="return MijnFundaClientActions.object_stopbewaar(&#39;295609dd-da6f-4c68-9552-3648de70f6f8&#39;, &#39;49650001&#39;, &#39;klik&#39;, &#39;koop/resultaatlijst&#39;, &#39;#saveObject49650001&#39;, &#39;#unsaveObject49650001&#39;)"
+        href="?mijnclientactie=deletebewaarobject"
+        title="Bewaard"
+         style="display: none" 
+>
+        Bewaard
+    </a>
+
+        </h3>
+        <ul class="properties-list">
+            
+            <li>
+                1243 KH
+                &#39;s-Graveland
+                
+<span class="item-product video" title="Video">Video</span>
+
+<span class="item-product foto360" title="360&#176; foto&#39;s">360&#176; foto&#39;s</span>
+
+<span class="item-product brochure" title="Brochure">Brochure</span>
+
+<span class="item-product floorplanner" title="Plattegrond">Plattegrond</span>
+<span class="item-new">
+Nieuw</span>
+
+            </li>
+            <li>
+                
+
+<span 
+
+    title="Woonoppervlakte">159 m²</span> 
+/
+
+
+<span 
+
+    title="Perceeloppervlakte">131 m²</span> 
+&#183;
+
+
+<span 
+
+    title="Aantal&#160;kamers">5 kamers</span> 
+&#183;
+
+
+<span 
+
+    class="item-since"
+
+    title="Aangeboden sinds">sinds vandaag</span> 
+    
+		    </li>
+		    
+		    <li>
+		        
+			    <a class="realtor" href="http://www.funda.nl/makelaars/hilversum/6340-westeneng-verbeek-makelaardij/">Westeneng Verbeek Makelaardij</a>
+		    
+		    </li>
+		    
+	    </ul>
+	
+	    <span class="price-wrapper"><span class="price">&euro;&nbsp;445.000</span> <abbr class="price-ext">k.k.</abbr></span>
+
+        
+    </div>
+    
+</li>
+
+           <li class="ad">
+              
+<div id="ad_653caa59-6bcc-4f45-92a8-34d761cb4113" class=""></div>
+           </li>
+         
+<li class="notification-result-list tip tip-nieuwbouw">
+    <strong>
+        <a href="../../../nieuwbouw/s-graveland/koop/">1 nieuwbouwproject</a> in &#39;s-Graveland
+    </strong>
+</li>
+
+</ul>
+
+                <p id="adSenseCsaAttribution" style="display: none; height: 16px; text-align: left; padding: 4px; margin: 0; color: #666;">Advertenties door Google</p>
+				<div class="prop-partners-txt" id="wide_ad_unit"></div>
+				
+<script type="text/javascript">
+    $(function () {
+        $.get('/clientactie/GetPaging/', { url: '/koop/s-graveland/1243kh/' }, function (pageData) {
+
+            $("#pagerContainer").html(pageData);
+        });
+    });
+
+</script>
+<p class="notification-order">Voor deze zoekopdracht worden woningen van NVM makelaars bovenaan geplaatst in de zoekresultaten, daaronder gevolgd door woningen van andere aanbieders. <a href="http://www.funda.nl/about/default.aspx?pagina=/nl/algemene-teksten-funda-sites/fundanl/losse-teksten/funda-en-nvm">Meer over funda en NVM</a></p>
+
+			</td>
+        </tr>
+	</table>
+
+			            </td>
+			            <td class="col aside">
+			                
+
+	
+<div class="block">
+    <h2 id="makelaarTitle" class="hdr">Makelaars in de buurt</h2>
+    <div class="spotlight-realtor">
+        
+                <div id="MakelaarAdvert_ctl00_realtorAd_realtorAdContainer" class="realtor-ad">
+    <p class="realtor-ad-img"><a href="/Content/Default.aspx?pagina=/nl/algemene-teksten-funda-sites/fundanl/verkoop/makelaarads/" id="MakelaarAdvert_ctl00_realtorAd_ImageAnchor"><span><img src="/img/thumbs/thumb-geen-makelaarlogo.gif" id="MakelaarAdvert_ctl00_realtorAd_ImageTag" class="realtor-logo" /></span></a></p>
+    <p class="realtor-ad-hdr"><a href="/Content/Default.aspx?pagina=/nl/algemene-teksten-funda-sites/fundanl/verkoop/makelaarads/" id="MakelaarAdvert_ctl00_realtorAd_HeaderAnchor">Bent u NVM makelaar?</a></p>
+    <p class="realtor-ad-txt"><a href="/Content/Default.aspx?pagina=/nl/algemene-teksten-funda-sites/fundanl/verkoop/makelaarads/" id="MakelaarAdvert_ctl00_realtorAd_FirstLineAnchor">Adverteer hier met uw</a></p>
+    <p class="realtor-ad-txt"><a href="/Content/Default.aspx?pagina=/nl/algemene-teksten-funda-sites/fundanl/verkoop/makelaarads/" id="MakelaarAdvert_ctl00_realtorAd_SecondLineAnchor">kantoor in uw werkgebied</a></p>
+    <p class="realtor-ad-url"><a href="/Content/Default.aspx?pagina=/nl/algemene-teksten-funda-sites/fundanl/verkoop/makelaarads/" id="MakelaarAdvert_ctl00_realtorAd_WebsiteAnchor">Klik voor meer informatie</a></p>
+</div>
+            
+    </div>
+    <p class="notify-promo-nvm"><a href="../../../content/default.aspx?pagina=/nl/algemene-teksten-funda-sites/fundanl/verkoop/makelaarads" id="linkPromo">Bent u makelaar en wilt u hier ook staan?</a></p>
+</div>
+
+<script type="text/javascript">
+	// bind click event for all ads: perform ajax call to register the click
+	$(document).ready(function() {
+    // attach a click event listener on all advertisement anchor tags
+    $('div.realtor-ad[makelaarAdId] a').click(function(event) {
+        // lookup the div which has the makelaarAdId attribute belonging to the clicked anchor tag
+        var clickedAd = $(this).parents('div.realtor-ad[makelaarAdId]');
+
+        // fetch the attribute values
+        var makelaarAdId = $(clickedAd).attr('makelaarAdId');
+        var geoGebiedNaam = $(clickedAd).attr('geoGebiedNaam');
+        var geoGebiedNiveau = $(clickedAd).attr('geoGebiedNiveau');
+        var makelaarId = $(clickedAd).attr('makelaarId');
+        var makelaarAdPosition = $('.realtor-ad').index(jQuery(clickedAd));
+
+        // construct the data array passed in the ajax call
+        var paramArray = { 
+					'makelaarAdId': makelaarAdId, 
+					'makelaarAdPosition': makelaarAdPosition, 
+					'geoGebiedNaam': geoGebiedNaam, 
+					'geoGebiedNiveau': geoGebiedNiveau, 
+					'makelaarId': makelaarId
+				};
+
+        // perform the ajax call
+        $.ajax({ 
+					url: '/clientactie/registermakelaaradclick/' + makelaarAdId,
+					type: 'POST',
+					data: paramArray
+				}); 
+    });
+});
+</script>
+
+
+			
+	
+					
+	<div class="prop-partners-sidebar">
+            
+<div id="ad_dddf99b7-ac56-4d0d-9b4f-8e6e77aa406d" class=""></div>
+	</div>
+
+			            </td>
+		            </tr>
+		        </table>
+		        
+	
+<div class="ftr-related" id="related-ftr">
+    <div class="block-l">
+        <div class="pos-l">
+            <h2 class="hdr"><strong>In de omgeving van 1243KH</strong></h2>
+            
+  <ul>
+  
+  <li><a href="/koop/wijdemeren/ankeveen/">Huizen te koop in Ankeveen, Wijdemeren</a></li>
+
+  <li><a href="/koop/hilversum/hilversum/">Huizen te koop in Hilversum, Hilversum</a></li>
+
+  <li><a href="/koop/wijdemeren/kortenhoef/">Huizen te koop in Kortenhoef, Wijdemeren</a></li>
+
+</ul>
+
+
+        </div>
+    </div>
+    <div class="block-m">
+        <div class="pos-m">
+        <h2 class="hdr"><strong>Woningtypen in 1243KH</strong></h2>
+                    
+  <ul>
+  
+  <li><a href="/koop/wijdemeren/s-graveland/woonhuis/">Huizen te koop in 's-Graveland, Wijdemeren</a></li>
+
+  <li><a href="/koop/wijdemeren/s-graveland/appartement/">Appartementen te koop in 's-Graveland, Wijdemeren</a></li>
+
+  <li><a href="/koop/wijdemeren/s-graveland/nieuwbouw/">Nieuwbouwwoningen te koop in 's-Graveland, Wijdemeren</a></li>
+
+</ul>
+
+
+        </div>
+    </div>
+    <div class="block-r">
+        <div class="pos-r">
+        <h2 class="hdr"><strong>Huur, nieuwbouw en bedrijfsaanbod</strong></h2>
+            
+  <ul>
+  
+  <li><a href="http://www.funda.nl/huur/wijdemeren/s-graveland/">Huizen te huur in 's-Graveland, Wijdemeren</a></li>
+
+  <li><a href="http://www.funda.nl/nieuwbouw/wijdemeren/s-graveland/">Nieuwbouwprojecten in 's-Graveland, Wijdemeren</a></li>
+
+  <li><a href="http://www.fundainbusiness.nl/kantoor/wijdemeren/s-graveland/">Bedrijfsaanbod in 's-Graveland, Wijdemeren</a></li>
+
+</ul>
+
+
+        </div>
+    </div>
+</div>
+    	    </div>
+    	</div>
+	    <div id="ftr">
+            <style>
+.results .cbov { display: none; }
+
+.no-results .realtor-hdr { border-bottom: 1px solid #CCC; padding-bottom: 13px; margin-bottom: 1.5em; }
+.no-results table.layout { width: 100%; }
+
+.realtor.vbo .container .rel-reviews,
+.realtor.mzv .container .rel-reviews,
+.realtor.lmv .container .rel-reviews { display: none; }
+.ad-bottom iframe { padding-top:0; }
+.bottom-ad iframe {padding-top:1em;}
+
+.advanced-search .search-form div.btn-advanced-address .button {float:none; position:absolute;z-index:9999;}
+/*VAL-11646*/
+.FundaPlattegrondInrichtenNotify {
+display: none;
+}
+
+#funda .detail-xml.vbo .app-footer .container, #funda .detail-xml.lmv .app-footer .container {background-image:none;}
+
+.icn-cutout.icon-logo-nvm-blue {background-image:url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%2048%2048%22%3E%3Csymbol%20id%3D%22e%22%20viewBox%3D%220%20-48%2048%2048%22%20fill%3D%22%23FFF%22%3E%3Cpath%20fill%3D%22none%22%20d%3D%22M0%200v-48h48V0z%22%3E%3C%2Fpath%3E%3C%2Fsymbol%3E%3Csymbol%20id%3D%22f%22%20viewBox%3D%22-0.0002%20-47.9998%2048%2048%22%20fill%3D%22%23FFF%22%3E%3Cdefs%20fill%3D%22%23FFF%22%3E%3Cpath%20id%3D%22a%22%20d%3D%22M48-48H0V0h48z%22%20fill%3D%22%23FFF%22%3E%3C%2Fpath%3E%3C%2Fdefs%3E%3CclipPath%20id%3D%22b%22%20fill%3D%22%23FFF%22%3E%3Cuse%20href%3D%22%23a%22%20overflow%3D%22visible%22%20fill%3D%22%23FFF%22%3E%3C%2Fuse%3E%3Cg%20clip-path%3D%22url%28%23b%29%22%20fill%3D%22%23FFF%22%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22%23FFF%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%3E%3Cpath%20d%3D%22M2-48V0M4-48V0M6-48V0M8-48V0M10-48V0M12-48V0M14-48V0M16-48V0M18-48V0M20-48V0M22-48V0M24-48V0M26-48V0M28-48V0M30-48V0M32-48V0M34-48V0M36-48V0M38-48V0M40-48V0M42-48V0M44-48V0M46-48V0%22%20fill%3D%22%23FFF%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22%23FFF%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%3E%3Cpath%20d%3D%22M0-2h48M0-4h48M0-6h48M0-8h48M0-10h48M0-12h48M0-14h48M0-16h48M0-18h48M0-20h48M0-22h48M0-24h48M0-26h48M0-28h48M0-30h48M0-32h48M0-34h48M0-36h48M0-38h48M0-40h48M0-42h48M0-44h48M0-46h48%22%20fill%3D%22%23FFF%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3Cpath%20d%3D%22M47.75-.25v-47.5H.25v47.5h47.5M48%200H0v-48h48V0z%22%20fill%3D%22%23FFF%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2FclipPath%3E%3C%2Fsymbol%3E%3Csymbol%20id%3D%22g%22%20viewBox%3D%22-0.0002%20-48.0001%2048%2048%22%20fill%3D%22%23FFF%22%3E%3Cg%20opacity%3D%22.4%22%20fill%3D%22%23FFF%22%3E%3Cdefs%20fill%3D%22%23FFF%22%3E%3Cpath%20id%3D%22c%22%20opacity%3D%22.4%22%20d%3D%22M0-48V0h48v-48z%22%20fill%3D%22%23FFF%22%3E%3C%2Fpath%3E%3C%2Fdefs%3E%3CclipPath%20id%3D%22d%22%20fill%3D%22%23FFF%22%3E%3Cuse%20href%3D%22%23c%22%20overflow%3D%22visible%22%20fill%3D%22%23FFF%22%3E%3C%2Fuse%3E%3Cpath%20clip-path%3D%22url%28%23d%29%22%20fill%3D%22none%22%20stroke%3D%22%23FFF%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%20d%3D%22M24%200v-48M48-24H0M48-16H0M48-32H0M32-48V0M16-48V0M47.75-.25L.25-47.75M.25-.25l47.5-47.5M24-14c-5.522%200-10-4.477-10-10%200-5.522%204.478-10%2010-10%205.523%200%2010%204.478%2010%2010%200%205.523-4.477%2010-10%2010z%22%3E%3C%2Fpath%3E%3Cpath%20d%3D%22M24-4C12.946-4%204-12.947%204-24s8.946-20%2020-20c11.053%200%2020%208.947%2020%2020S35.052-4%2024-4z%22%20clip-path%3D%22url%28%23d%29%22%20fill%3D%22none%22%20stroke%3D%22%23FFF%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%3E%3C%2Fpath%3E%3Cpath%20d%3D%22M40-42H8c-1.1%200-2%20.9-2%202v32c0%201.1.9%202%202%202h32c1.1%200%202-.9%202-2v-32c0-1.1-.9-2-2-2z%22%20clip-path%3D%22url%28%23d%29%22%20fill%3D%22none%22%20stroke%3D%22%23FFF%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%3E%3C%2Fpath%3E%3Cpath%20d%3D%22M38-44H10c-1.1%200-2%20.9-2%202v36c0%201.1.9%202%202%202h28c1.1%200%202-.9%202-2v-36c0-1.1-.9-2-2-2z%22%20clip-path%3D%22url%28%23d%29%22%20fill%3D%22none%22%20stroke%3D%22%23FFF%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%3E%3C%2Fpath%3E%3Cg%20clip-path%3D%22url%28%23d%29%22%20fill%3D%22%23FFF%22%3E%3Cpath%20d%3D%22M47.75-.25v-47.5H.25v47.5h47.5M48%200H0v-48h48V0z%22%20fill%3D%22%23FFF%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3Cpath%20d%3D%22M42-40H6c-1.1%200-2%20.9-2%202v28c0%201.1.9%202%202%202h36c1.1%200%202-.9%202-2v-28c0-1.1-.9-2-2-2z%22%20clip-path%3D%22url%28%23d%29%22%20fill%3D%22none%22%20stroke%3D%22%23FFF%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%3E%3C%2Fpath%3E%3C%2FclipPath%3E%3C%2Fg%3E%3C%2Fsymbol%3E%3Cg%20fill%3D%22%23FFF%22%3E%3Cpath%20d%3D%22M9.474%2043.96v-7.756h3.068l2.887%205.37h.03v-5.37h2.12v7.755h-2.993l-2.963-5.672h-.03v5.67h-2.12zM18.616%2036.204h2.36l1.686%205.64h.03l1.894-5.64h2.24l-2.87%207.755h-2.663l-2.677-7.756zM27.804%2043.96v-7.756h3.654l1.7%205.273h.03l1.804-5.273h3.533v7.755h-2.21v-5.984h-.03l-2.09%205.983h-2.166l-1.986-5.984h-.03v5.983h-2.21zM36.4%204.042c1.165%200%202.11.944%202.11%202.11V32.23c0%20.647-.524%201.17-1.17%201.17h-6.433c-.646%200-1.17-.523-1.17-1.17v-8.955c0-1.33%201.078-2.408%202.408-2.408h.24c2.177%200%203.94-1.764%203.94-3.94%200-2.177-1.763-3.942-3.94-3.942-2.176%200-3.94%201.765-3.94%203.94l.013%2015.305c0%20.647-.524%201.17-1.17%201.17h-6.422c-.646%200-1.17-.523-1.17-1.17l.014-15.304c0-2.176-1.765-3.94-3.94-3.94-2.178%200-3.942%201.764-3.942%203.94%200%202.177%201.764%203.94%203.94%203.94h.24c1.33%200%202.41%201.08%202.41%202.41v8.954c0%20.647-.524%201.17-1.17%201.17h-6.433c-.647%200-1.17-.523-1.17-1.17V6.15c0-1.164.944-2.108%202.11-2.108l8.675.01c1.698%200%203.074%201.376%203.074%203.074l-.156.05c-1.794.343-3.15%201.92-3.15%203.816%200%202.145%201.74%203.884%203.885%203.884h-.01c2.145%200%203.884-1.74%203.884-3.884%200-1.895-1.357-3.473-3.15-3.816l-.157-.05c0-1.698%201.377-3.074%203.074-3.074l8.676-.01z%22%20fill%3D%22%23FFF%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fsvg%3E');}
+
+#ftr .app-footer .icon-logo-nvm-blue {background-image:url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%2048%2048%22%3E%3Csymbol%20id%3D%22e%22%20viewBox%3D%220%20-48%2048%2048%22%20fill%3D%22%233888C5%22%3E%3Cpath%20fill%3D%22none%22%20d%3D%22M0%200v-48h48V0z%22%3E%3C%2Fpath%3E%3C%2Fsymbol%3E%3Csymbol%20id%3D%22f%22%20viewBox%3D%22-0.0002%20-47.9998%2048%2048%22%20fill%3D%22%233888C5%22%3E%3Cdefs%20fill%3D%22%233888C5%22%3E%3Cpath%20id%3D%22a%22%20d%3D%22M48-48H0V0h48z%22%20fill%3D%22%233888C5%22%3E%3C%2Fpath%3E%3C%2Fdefs%3E%3CclipPath%20id%3D%22b%22%20fill%3D%22%233888C5%22%3E%3Cuse%20href%3D%22%23a%22%20overflow%3D%22visible%22%20fill%3D%22%233888C5%22%3E%3C%2Fuse%3E%3Cg%20clip-path%3D%22url%28%23b%29%22%20fill%3D%22%233888C5%22%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22%233888C5%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%3E%3Cpath%20d%3D%22M2-48V0M4-48V0M6-48V0M8-48V0M10-48V0M12-48V0M14-48V0M16-48V0M18-48V0M20-48V0M22-48V0M24-48V0M26-48V0M28-48V0M30-48V0M32-48V0M34-48V0M36-48V0M38-48V0M40-48V0M42-48V0M44-48V0M46-48V0%22%20fill%3D%22%233888C5%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22%233888C5%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%3E%3Cpath%20d%3D%22M0-2h48M0-4h48M0-6h48M0-8h48M0-10h48M0-12h48M0-14h48M0-16h48M0-18h48M0-20h48M0-22h48M0-24h48M0-26h48M0-28h48M0-30h48M0-32h48M0-34h48M0-36h48M0-38h48M0-40h48M0-42h48M0-44h48M0-46h48%22%20fill%3D%22%233888C5%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3Cpath%20d%3D%22M47.75-.25v-47.5H.25v47.5h47.5M48%200H0v-48h48V0z%22%20fill%3D%22%233888C5%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2FclipPath%3E%3C%2Fsymbol%3E%3Csymbol%20id%3D%22g%22%20viewBox%3D%22-0.0002%20-48.0001%2048%2048%22%20fill%3D%22%233888C5%22%3E%3Cg%20opacity%3D%22.4%22%20fill%3D%22%233888C5%22%3E%3Cdefs%20fill%3D%22%233888C5%22%3E%3Cpath%20id%3D%22c%22%20opacity%3D%22.4%22%20d%3D%22M0-48V0h48v-48z%22%20fill%3D%22%233888C5%22%3E%3C%2Fpath%3E%3C%2Fdefs%3E%3CclipPath%20id%3D%22d%22%20fill%3D%22%233888C5%22%3E%3Cuse%20href%3D%22%23c%22%20overflow%3D%22visible%22%20fill%3D%22%233888C5%22%3E%3C%2Fuse%3E%3Cpath%20clip-path%3D%22url%28%23d%29%22%20fill%3D%22none%22%20stroke%3D%22%233888C5%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%20d%3D%22M24%200v-48M48-24H0M48-16H0M48-32H0M32-48V0M16-48V0M47.75-.25L.25-47.75M.25-.25l47.5-47.5M24-14c-5.522%200-10-4.477-10-10%200-5.522%204.478-10%2010-10%205.523%200%2010%204.478%2010%2010%200%205.523-4.477%2010-10%2010z%22%3E%3C%2Fpath%3E%3Cpath%20d%3D%22M24-4C12.946-4%204-12.947%204-24s8.946-20%2020-20c11.053%200%2020%208.947%2020%2020S35.052-4%2024-4z%22%20clip-path%3D%22url%28%23d%29%22%20fill%3D%22none%22%20stroke%3D%22%233888C5%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%3E%3C%2Fpath%3E%3Cpath%20d%3D%22M40-42H8c-1.1%200-2%20.9-2%202v32c0%201.1.9%202%202%202h32c1.1%200%202-.9%202-2v-32c0-1.1-.9-2-2-2z%22%20clip-path%3D%22url%28%23d%29%22%20fill%3D%22none%22%20stroke%3D%22%233888C5%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%3E%3C%2Fpath%3E%3Cpath%20d%3D%22M38-44H10c-1.1%200-2%20.9-2%202v36c0%201.1.9%202%202%202h28c1.1%200%202-.9%202-2v-36c0-1.1-.9-2-2-2z%22%20clip-path%3D%22url%28%23d%29%22%20fill%3D%22none%22%20stroke%3D%22%233888C5%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%3E%3C%2Fpath%3E%3Cg%20clip-path%3D%22url%28%23d%29%22%20fill%3D%22%233888C5%22%3E%3Cpath%20d%3D%22M47.75-.25v-47.5H.25v47.5h47.5M48%200H0v-48h48V0z%22%20fill%3D%22%233888C5%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3Cpath%20d%3D%22M42-40H6c-1.1%200-2%20.9-2%202v28c0%201.1.9%202%202%202h36c1.1%200%202-.9%202-2v-28c0-1.1-.9-2-2-2z%22%20clip-path%3D%22url%28%23d%29%22%20fill%3D%22none%22%20stroke%3D%22%233888C5%22%20stroke-width%3D%22.25%22%20stroke-miterlimit%3D%2210%22%3E%3C%2Fpath%3E%3C%2FclipPath%3E%3C%2Fg%3E%3C%2Fsymbol%3E%3Cg%20fill%3D%22%233888C5%22%3E%3Cpath%20d%3D%22M9.474%2043.96v-7.756h3.068l2.887%205.37h.03v-5.37h2.12v7.755h-2.993l-2.963-5.672h-.03v5.67h-2.12zM18.616%2036.204h2.36l1.686%205.64h.03l1.894-5.64h2.24l-2.87%207.755h-2.663l-2.677-7.756zM27.804%2043.96v-7.756h3.654l1.7%205.273h.03l1.804-5.273h3.533v7.755h-2.21v-5.984h-.03l-2.09%205.983h-2.166l-1.986-5.984h-.03v5.983h-2.21zM36.4%204.042c1.165%200%202.11.944%202.11%202.11V32.23c0%20.647-.524%201.17-1.17%201.17h-6.433c-.646%200-1.17-.523-1.17-1.17v-8.955c0-1.33%201.078-2.408%202.408-2.408h.24c2.177%200%203.94-1.764%203.94-3.94%200-2.177-1.763-3.942-3.94-3.942-2.176%200-3.94%201.765-3.94%203.94l.013%2015.305c0%20.647-.524%201.17-1.17%201.17h-6.422c-.646%200-1.17-.523-1.17-1.17l.014-15.304c0-2.176-1.765-3.94-3.94-3.94-2.178%200-3.942%201.764-3.942%203.94%200%202.177%201.764%203.94%203.94%203.94h.24c1.33%200%202.41%201.08%202.41%202.41v8.954c0%20.647-.524%201.17-1.17%201.17h-6.433c-.647%200-1.17-.523-1.17-1.17V6.15c0-1.164.944-2.108%202.11-2.108l8.675.01c1.698%200%203.074%201.376%203.074%203.074l-.156.05c-1.794.343-3.15%201.92-3.15%203.816%200%202.145%201.74%203.884%203.885%203.884h-.01c2.145%200%203.884-1.74%203.884-3.884%200-1.895-1.357-3.473-3.15-3.816l-.157-.05c0-1.698%201.377-3.074%203.074-3.074l8.676-.01z%22%20fill%3D%22%233888C5%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fsvg%3E');}
+</style>
+
+
+
+<script type="text/javascript">
+<!-- error tracking -->
+(function(){window.onerror=function(message,file,line){_gaq.push(["_trackEvent","JS Error",file+":"+line+"\n\n"+message])};
+$(document).ready(function(){var frm = function(){var windowMode = 'iframe';window.displaymode = windowMode;if(window.parent.displaymode !== undefined && window.parent.displaymode === windowMode){return false;}return true;};if(frm === true) {parentUrl=document.referrer;_gaq.push(["_trackEvent","iFrame",parentUrl,_GATag])}})})();
+</script>
+
+<!-- Satisfaction Survey -->
+<script src="//www.funda.nl/media/10721264/intercept.js"></script>
+<script>
+$(document).ready(function () {
+	var intercept = new Funda.Intercept({
+		content : '<span class="intercept-text"><strong class="icn-questionnaire">Help ons funda te verbeteren!</strong> Geef uw feedback op een paar vragen.</span><span class="intercept-calltoaction"><a href="http://www.funda.nl/tevredenheidsonderzoek" class="button-alt cta-intercept cta-intercept-satisfaction int-site"> <strong>Ja, ik doe mee</strong></a> &nbsp;|&nbsp; <a href="#" class="but-cancel txt-sft remove-intercept remove-intercept-satisfaction">Nee, liever nu niet</a></span>',
+		chance : 0.05,
+		targetting : {
+			url : /(koop|huur|nieuwbouw|recreatie|europe)\/.+\/[a-z]+-[0-9]+.+\/*/
+		},
+		cookies : {
+			prefix : 'satisfaction-survey',
+			expires : 180
+		},
+		events : {
+			onOpen : function () {
+				// Start experiment
+				window.optimizely.push(['activate', 2497350300]);
+			},
+			onOpened : function () {
+				// Track GA event
+				_gaq.push(['_trackEvent', 'Intercept', 'Getoond', 'Tevredenheidsonderzoek']);
+			}
+		}
+	});
+
+	$('#intercept a.cta-intercept-satisfaction').click(function () {
+		_gaq.push(['_trackEvent', 'Intercept', 'Call to action', 'Tevredenheidsonderzoek']);
+	});
+
+	$('#intercept a.remove-intercept-satisfaction').click(function () {
+		_gaq.push(['_trackEvent', 'Intercept', 'Sluiten', 'Tevredenheidsonderzoek']);
+	});
+});
+</script>
+<!-- // -->
+<script type="text/javascript">
+
+        function getCookie(cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1);
+                if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+            }
+            return "";
+        }
+        
+        $(document).ready(function () {
+
+            var rtbplatform = getCookie("rtb-platform");
+            if (typeof rtbplatform == 'undefined' || rtbplatform == '') {
+                                
+                var chance = Math.random();
+
+                if (chance < 0.1) {
+                    document.cookie = "rtb-platform=adx; expires=0; path=/";
+                } else {
+                    document.cookie = "rtb-platform=improve; expires=0; path=/";
+                }
+            }
+        });
+    </script>
+
+
+<script type="text/javascript">
+    // <![CDATA[
+    function comScore(t) { var b = "comScore", o = document, f = o.location, a = "", e = "undefined", g = 2048, s, k, p, h, r = "characterSet", n = "defaultCharset", m = (typeof encodeURIComponent != e ? encodeURIComponent : escape); if (o.cookie.indexOf(b + "=") != -1) { p = o.cookie.split(";"); for (h = 0, f = p.length; h < f; h++) { var q = p[h].indexOf(b + "="); if (q != -1) { a = "&" + unescape(p[h].substring(q + b.length + 1)) } } } t = t + "&ns__t=" + (new Date().getTime()); t = t + "&ns_c=" + (o[r] ? o[r] : (o[n] ? o[n] : "")) + "&c8=" + m(o.title) + a + "&c7=" + m(f && f.href ? f.href : o.URL) + "&c9=" + m(o.referrer); if (t.length > g && t.indexOf("&") > 0) { s = t.substr(0, g - 8).lastIndexOf("&"); t = (t.substring(0, s) + "&ns_cut=" + m(t.substring(s + 1))).substr(0, g) } if (o.images) { k = new Image(); if (typeof ns_p == e) { ns_p = k } k.src = t } else { o.write(["<", "p", "><", 'img src="', t, '" height="1" width="1" alt="*"', "><", "/p", ">"].join("")) } };
+
+    $(document).ready(function() {
+        if (readCookie("cookiesAccepted_1") == "1") {
+            comScore('http' + (document.location.href.charAt(4) == 's' ? 's://sb' : '://b') + '.scorecardresearch.com/p?c1=2&c2=12303911');
+        } 
+    });
+// ]]>
+</script>
+
+
+<!-- app-footer component -->
+<div role="contentinfo" class="app-footer pg-width">
+  <div class="app-footer-nav">
+    <div class="container pg-width">
+      <div class="app-footer-main-menu">
+        <div class="app-footer-main-menu-items">
+          <div class="app-footer-items">
+			<span class="app-footer-item-title">
+English 
+   
+</span>
+            <a class="lng-slct" rel="nofollow" href="/redirect/en/L2tvb3Avcy1ncmF2ZWxhbmQvMTI0M2toLw==">Funda in English</a>
+			<span class="app-footer-item-title">Makelaars</span>
+			<a href="http://www.fundadesk.nl">Funda desk</a>
+          </div>
+          <div class="app-footer-items">
+			<span class="app-footer-item-title">Service</span>
+ <a href="/redirect/logout/?returnurl=%2fkoop%2fs-graveland%2f1243kh%2f">Uitloggen</a> 
+			
+			<a href="/help/">Help</a>
+			<a href="/contact/">Contact</a>
+          </div>
+      </div>
+      <div class="app-footer-main-menu-items">
+          <div class="app-footer-items">
+			<span class="app-footer-item-title">Huis op funda</span>
+			<a href="/huis-plaatsen/">Huis plaatsen</a>
+			<a href="/makelaars/">NVM makelaar</a>
+			<a href="/koop/bladeren/">Bladeren</a>
+          </div>
+          <div class="app-footer-items">
+			<span class="app-footer-item-title">Funda</span>
+			<a href="/about/default.aspx?pagina=/nl/algemene-teksten-funda-sites/fundanl/over-funda/">Over funda</a>
+			<a href="/vacatures/">Vacatures</a>
+			<a href="/adverteren/">Adverteren</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container pg-width">
+    <div class="app-footer-secondary-menu">
+        <ul class="app-footer-social-menu">
+            <li>
+                <a href="http://www.facebook.com/funda" target="_blank">
+                    <span class="app-footer-social-menu-icon icon-facebook-blue" style="background-image: none;"><svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48"><symbol id="e" viewBox="0 -48 48 48" fill="#3888C5"><path fill="none" d="M0 0v-48h48V0z"></path></symbol><symbol id="f" viewBox="-0.0002 -48 48.0002 48.0002" fill="#3888C5"><defs fill="#3888C5"><path id="a" d="M48-48H0V0h48z" fill="#3888C5"></path></defs><clipPath id="b" fill="#3888C5"><use href="#a" overflow="visible" fill="#3888C5"></use><g clip-path="url(#b)" fill="#3888C5"><g fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"><path d="M2-48V0M4-48V0M6-48V0M8-48V0M10-48V0M12-48V0M14-48V0M16-48V0M18-48V0M20-48V0M22-48V0M24-48V0M26-48V0M28-48V0M30-48V0M32-48V0M34-48V0M36-48V0M38-48V0M40-48V0M42-48V0M44-48V0M46-48V0" fill="#3888C5"></path></g><g fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"><path d="M0-2h48M0-4h48M0-6h48M0-8h48M0-10h48M0-12h48M0-14h48M0-16h48M0-18h48M0-20h48M0-22h48M0-24h48M0-26h48M0-28h48M0-30h48M0-32h48M0-34h48M0-36h48M0-38h48M0-40h48M0-42h48M0-44h48M0-46h48" fill="#3888C5"></path></g><path d="M47.75-.25v-47.5H.25v47.5h47.5M48 0H0v-48h48V0z" fill="#3888C5"></path></g></clipPath></symbol><symbol id="g" viewBox="-0.0002 -48.0003 48 48" fill="#3888C5"><g opacity=".4" fill="#3888C5"><defs fill="#3888C5"><path id="c" opacity=".4" d="M0-48V0h48v-48z" fill="#3888C5"></path></defs><clipPath id="d" fill="#3888C5"><use href="#c" overflow="visible" fill="#3888C5"></use><path clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10" d="M24 0v-48M48-24H0M48-16H0M48-32H0M32-48V0M16-48V0M47.75-.25L.25-47.75M.25-.25l47.5-47.5M24-14c-5.522 0-10-4.477-10-10s4.478-10 10-10c5.523 0 10 4.478 10 10 0 5.523-4.477 10-10 10z"></path><path d="M24-4C12.946-4 4-12.948 4-24c0-11.053 8.946-20 20-20 11.053 0 20 8.947 20 20 0 11.052-8.948 20-20 20z" clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"></path><path d="M40.5-42h-33c-.825 0-1.5.675-1.5 1.5v33C6-6.675 6.675-6 7.5-6h33c.825 0 1.5-.675 1.5-1.5v-33c0-.825-.675-1.5-1.5-1.5z" clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"></path><path d="M38.5-44h-29c-.825 0-1.5.675-1.5 1.5v37C8-4.675 8.675-4 9.5-4h29c.825 0 1.5-.675 1.5-1.5v-37c0-.825-.675-1.5-1.5-1.5z" clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"></path><g clip-path="url(#d)" fill="#3888C5"><path d="M47.75-.25v-47.5H.25v47.5h47.5M48 0H0v-48h48V0z" fill="#3888C5"></path></g><path d="M42.5-40h-37c-.825 0-1.5.675-1.5 1.5v29C4-8.675 4.675-8 5.5-8h37c.825 0 1.5-.675 1.5-1.5v-29c0-.825-.675-1.5-1.5-1.5z" clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"></path></clipPath></g></symbol><path d="M18.958 17.077h-4.19v6.837h4.19V44h8.055V23.83h5.62l.598-6.753h-6.217V13.23c0-1.59.32-2.22 1.86-2.22h4.358V4h-5.576c-5.994 0-8.696 2.64-8.696 7.692v5.385z" fill="#3888C5"></path></svg></span>
+                    <span class="icon-text">Facebook</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.twitter.com/funda" target="_blank">
+                    <span class="app-footer-social-menu-icon icon-twitter-blue" style="background-image: none;"><svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48"><symbol id="Symbol1" viewBox="0 -48 48 48" fill="#3888C5"><path fill="none" d="M0 0v-48h48V0z"></path></symbol><symbol id="Symbol2" viewBox="-0.0002 -48 48.0002 48.0002" fill="#3888C5"><defs fill="#3888C5"><path id="Path1" d="M48-48H0V0h48z" fill="#3888C5"></path></defs><clipPath id="ClipPath1" fill="#3888C5"><use href="#a" overflow="visible" fill="#3888C5"></use><g clip-path="url(#b)" fill="#3888C5"><g fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"><path d="M2-48V0M4-48V0M6-48V0M8-48V0M10-48V0M12-48V0M14-48V0M16-48V0M18-48V0M20-48V0M22-48V0M24-48V0M26-48V0M28-48V0M30-48V0M32-48V0M34-48V0M36-48V0M38-48V0M40-48V0M42-48V0M44-48V0M46-48V0" fill="#3888C5"></path></g><g fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"><path d="M0-2h48M0-4h48M0-6h48M0-8h48M0-10h48M0-12h48M0-14h48M0-16h48M0-18h48M0-20h48M0-22h48M0-24h48M0-26h48M0-28h48M0-30h48M0-32h48M0-34h48M0-36h48M0-38h48M0-40h48M0-42h48M0-44h48M0-46h48" fill="#3888C5"></path></g><path d="M47.75-.25v-47.5H.25v47.5h47.5M48 0H0v-48h48V0z" fill="#3888C5"></path></g></clipPath></symbol><symbol id="Symbol3" viewBox="-0.0002 -48.0003 48 48" fill="#3888C5"><g opacity=".4" fill="#3888C5"><defs fill="#3888C5"><path id="Path2" opacity=".4" d="M0-48V0h48v-48z" fill="#3888C5"></path></defs><clipPath id="ClipPath2" fill="#3888C5"><use href="#c" overflow="visible" fill="#3888C5"></use><path clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10" d="M24 0v-48M48-24H0M48-16H0M48-32H0M32-48V0M16-48V0M47.75-.25L.25-47.75M.25-.25l47.5-47.5M24-14c-5.522 0-10-4.477-10-10s4.478-10 10-10c5.523 0 10 4.478 10 10 0 5.523-4.477 10-10 10z"></path><path d="M24-4C12.946-4 4-12.948 4-24c0-11.053 8.946-20 20-20 11.053 0 20 8.947 20 20 0 11.052-8.948 20-20 20z" clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"></path><path d="M40.5-42h-33c-.825 0-1.5.675-1.5 1.5v33C6-6.675 6.675-6 7.5-6h33c.825 0 1.5-.675 1.5-1.5v-33c0-.825-.675-1.5-1.5-1.5z" clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"></path><path d="M38.5-44h-29c-.825 0-1.5.675-1.5 1.5v37C8-4.675 8.675-4 9.5-4h29c.825 0 1.5-.675 1.5-1.5v-37c0-.825-.675-1.5-1.5-1.5z" clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"></path><g clip-path="url(#d)" fill="#3888C5"><path d="M47.75-.25v-47.5H.25v47.5h47.5M48 0H0v-48h48V0z" fill="#3888C5"></path></g><path d="M42.5-40h-37c-.825 0-1.5.675-1.5 1.5v29C4-8.675 4.675-8 5.5-8h37c.825 0 1.5-.675 1.5-1.5v-29c0-.825-.675-1.5-1.5-1.5z" clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"></path></clipPath></g></symbol><path d="M44 11.594c-1.47.653-3.053 1.095-4.713 1.293 1.694-1.016 2.995-2.624 3.608-4.54-1.586.94-3.342 1.623-5.21 1.99-1.498-1.594-3.63-2.59-5.99-2.59-5.298 0-9.192 4.943-7.995 10.076-6.82-.342-12.868-3.61-16.915-8.574-2.15 3.686-1.115 8.512 2.54 10.955-1.345-.043-2.61-.412-3.717-1.027-.09 3.802 2.635 7.358 6.582 8.15-1.156.315-2.42.387-3.706.14 1.044 3.26 4.075 5.634 7.666 5.7-3.45 2.704-7.796 3.912-12.15 3.4 3.632 2.327 7.945 3.686 12.58 3.686 15.236 0 23.844-12.87 23.325-24.412C41.51 14.685 42.9 13.24 44 11.594z" fill="#3888C5"></path></svg></span>
+                    <span class="icon-text">Twitter</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.pinterest.com/funda/" target="_blank">
+                    <span class="app-footer-social-menu-icon icon-pinterest-blue" style="background-image: none;"><svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48"><symbol id="Symbol4" viewBox="0 -48 48 48" fill="#3888C5"><path fill="none" d="M0 0v-48h48V0z"></path></symbol><symbol id="Symbol5" viewBox="-0.0002 -48 48.0002 48.0002" fill="#3888C5"><defs fill="#3888C5"><path id="Path3" d="M48-48H0V0h48z" fill="#3888C5"></path></defs><clipPath id="ClipPath3" fill="#3888C5"><use href="#a" overflow="visible" fill="#3888C5"></use><g clip-path="url(#b)" fill="#3888C5"><g fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"><path d="M2-48V0M4-48V0M6-48V0M8-48V0M10-48V0M12-48V0M14-48V0M16-48V0M18-48V0M20-48V0M22-48V0M24-48V0M26-48V0M28-48V0M30-48V0M32-48V0M34-48V0M36-48V0M38-48V0M40-48V0M42-48V0M44-48V0M46-48V0" fill="#3888C5"></path></g><g fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"><path d="M0-2h48M0-4h48M0-6h48M0-8h48M0-10h48M0-12h48M0-14h48M0-16h48M0-18h48M0-20h48M0-22h48M0-24h48M0-26h48M0-28h48M0-30h48M0-32h48M0-34h48M0-36h48M0-38h48M0-40h48M0-42h48M0-44h48M0-46h48" fill="#3888C5"></path></g><path d="M47.75-.25v-47.5H.25v47.5h47.5M48 0H0v-48h48V0z" fill="#3888C5"></path></g></clipPath></symbol><symbol id="Symbol6" viewBox="-0.0002 -48.0003 48 48" fill="#3888C5"><g opacity=".4" fill="#3888C5"><defs fill="#3888C5"><path id="Path4" opacity=".4" d="M0-48V0h48v-48z" fill="#3888C5"></path></defs><clipPath id="ClipPath4" fill="#3888C5"><use href="#c" overflow="visible" fill="#3888C5"></use><path clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10" d="M24 0v-48M48-24H0M48-16H0M48-32H0M32-48V0M16-48V0M47.75-.25L.25-47.75M.25-.25l47.5-47.5M24-14c-5.522 0-10-4.477-10-10s4.478-10 10-10c5.523 0 10 4.478 10 10 0 5.523-4.477 10-10 10z"></path><path d="M24-4C12.946-4 4-12.948 4-24c0-11.053 8.946-20 20-20 11.053 0 20 8.947 20 20 0 11.052-8.948 20-20 20z" clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"></path><path d="M40.5-42h-33c-.825 0-1.5.675-1.5 1.5v33C6-6.675 6.675-6 7.5-6h33c.825 0 1.5-.675 1.5-1.5v-33c0-.825-.675-1.5-1.5-1.5z" clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"></path><path d="M38.5-44h-29c-.825 0-1.5.675-1.5 1.5v37C8-4.675 8.675-4 9.5-4h29c.825 0 1.5-.675 1.5-1.5v-37c0-.825-.675-1.5-1.5-1.5z" clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"></path><g clip-path="url(#d)" fill="#3888C5"><path d="M47.75-.25v-47.5H.25v47.5h47.5M48 0H0v-48h48V0z" fill="#3888C5"></path></g><path d="M42.5-40h-37c-.825 0-1.5.675-1.5 1.5v29C4-8.675 4.675-8 5.5-8h37c.825 0 1.5-.675 1.5-1.5v-29c0-.825-.675-1.5-1.5-1.5z" clip-path="url(#d)" fill="none" stroke="#3888C5" stroke-width=".25" stroke-miterlimit="10"></path></clipPath></g></symbol><path d="M24.937 4C14.02 4 8.517 11.826 8.517 18.353c0 3.95 1.496 7.467 4.705 8.777.526.215.998.008 1.15-.575.106-.403.357-1.42.47-1.844.153-.575.094-.777-.33-1.28-.926-1.09-1.518-2.504-1.518-4.505 0-5.806 4.345-11.004 11.312-11.004 6.17 0 9.56 3.77 9.56 8.806 0 6.624-2.932 12.216-7.284 12.216-2.404 0-4.203-1.988-3.626-4.426.69-2.91 2.028-6.052 2.028-8.153 0-1.88-1.01-3.45-3.1-3.45-2.456 0-4.43 2.543-4.43 5.948 0 2.17.733 3.636.733 3.636l-2.955 12.52c-.878 3.716-.132 8.27-.068 8.73.036.274.387.34.545.133.226-.297 3.153-3.91 4.147-7.52.282-1.022 1.617-6.315 1.617-6.315.798 1.522 3.13 2.864 5.612 2.864 7.386 0 12.397-6.735 12.397-15.748C39.483 10.347 33.71 4 24.937 4z" fill="#3888C5"></path></svg></span>
+                    <span class="icon-text">Pinterest</span>
+                </a>
+            </li>
+        </ul>
+        <ul class="app-footer-legal-menu">
+            <li><a href="/privacybeleid/">Privacy</a></li>
+            <li><a href="/cookiebeleid/">Cookies</a></li>
+            <li><a href="/gebruiksvoorwaarden/">Voorwaarden</a></li>
+        </ul>
+      <p class="app-footer-legal-text">© 2000 – 2015 Funda Real Estate B.V.</p>
+      <p class="app-footer-legal-text">funda is powered by NVM
+        <a href="http://www.nvm.nl"><span class="app-footer-legal-icon icon-logo-nvm-blue"></span></a>
+      </p>
+      <p class="app-footer-legal-text-short">
+        © 2000 – 2015 funda - Powered by NVM
+	      <a href="http://www.nvm.nl"><span class="app-footer-legal-icon icon-logo-nvm-blue"></span></a>
+      </p>
+    </div>
+  </div>
+</div>
+<!-- /app-footer -->
+	    </div>
+    </div>
+    
+    <script>
+        window.adSenseDisplayIcons = false
+    </script>
+
+    <script>
+        
+        function removeItems(originalArray, itemsToRemove) {
+            var j;
+            for (var i = 0; i < itemsToRemove.length; i++) {
+                j = 0;
+                while (j < originalArray.length) {
+                    if (originalArray[j] == itemsToRemove[i]) {
+                        originalArray.splice(j, 1);
+                    } else {
+                        j++;
+                    }
+                }
+            }
+            return originalArray;
+        }
+        function GAds_onBeforeProcess(gads) {
+            gads.isSoortObject = function(step) {
+                if (step.match(/^p\d/)) return false;
+                if (step.match(/^sorteer-/)) return false;
+                return !gads.isGeo(step);
+            };
+            gads.filterGeoAppend = function (arr) { return arr; }
+            gads.oldProcessPath = gads.processPath;
+            gads.processPath = function() {
+                var result = this.oldProcessPath();
+                if (result.channel.indexOf("koop") == 0) {
+                    result.query += " koop"
+                }
+                if (result.query.indexOf('huis') >= 0 &&
+                (result.query.indexOf('appartement') >= 0 ||
+                    result.query.indexOf('woonhuis') >= 0 ||
+                    result.query.indexOf('parkeergelegenheid') >= 0)) {
+                    result.query = result.query.replace(/\bhuis\b/, "");
+                }
+                return result;
+            };
+        }
+    </script>
+    <script src="http://www.google.com/adsense/search/ads.js" type="text/javascript"></script> 
+    <script type="text/javascript" language="javascript1.1" src="/js/g_ads/g_ads.js?219"></script>
+    <script>
+        $(function() {
+            // SRCH-425
+            Preloader.cache(Preloader.fod);
+        });
+    </script>
+
+<script type="text/javascript">
+        $(function() {
+            
+    
+	
+$(function () { 
+    resize_fif(); 
+
+    // collapse nieuwbouw
+    if (typeof (Uncollapse) != 'undefined') {
+        Uncollapse.init(document.getElementById('listing-sr'));
+    }
+
+	//photo-pager in gallery mode
+	if (typeof (PhotoViewer) != 'undefined') {
+	    PhotoViewer.PhotoUrl = 'http://cloud.funda.nl/valentina_media/{0}_middel.jpg',
+        PhotoViewer.Init();
+	}
+});
+
+
+    // sorting dropdown
+    if (typeof (Dropdown) != 'undefined') {
+        Dropdown.init([{ button: document.getElementById('sort-button'), dropdown: document.getElementById('sort-dropdown')}]);
+    }
+
+        });
+</script>
+
+
+<script type="text/javascript">
+   (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+   
+    /// New GA tag manager see NB-144
+  (function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+          'gtm.start': new Date().getTime(), event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-M6MW99');
+</script><script type='text/javascript'>googletag.cmd.push(function() {
+googletag.pubads().setCookieOptions(0);
+googletag.pubads().collapseEmptyDivs(true);
+googletag.pubads().setTargeting("cat1","noordholland").setTargeting("cat2","sgraveland").setTargeting("cat3","1243kh").setTargeting("cat14","0").setTargeting("cat15","onbeperkt").setTargeting("cat21","2").setTargeting("cat22","nee").setTargeting("cat24","0").setTargeting("cat28","0").setTargeting("cat37","0").setTargeting("cat38","gemeentewijdemeren").setTargeting("cat41","0").setTargeting("cat42","0").setTargeting("cat43","0").setTargeting("cat44","0").setTargeting("cat46","improve").setTargeting("platform","desktop").setTargeting("cookiesaccepted","true");
+var mapping = googletag.sizeMapping().addSize([1280, 0],[[983, 104],[728, 90],[580,72],[468,60]]).addSize([0, 0],[[983, 104],[580,72],[468,60]]).build();
+ googletag.defineSlot("/7276/funda.koop/resultaatlijst/noordholland/sgraveland", [[468, 60],[580, 72],[983, 104]], "ad_653caa59-6bcc-4f45-92a8-34d761cb4113").defineSizeMapping(mapping).addService(googletag.pubads()).setTargeting("lok","2001"); 
+ googletag.defineSlot("/7276/funda.koop/resultaatlijst/noordholland/sgraveland", [[300, 250],[300, 600]], "ad_dddf99b7-ac56-4d0d-9b4f-8e6e77aa406d").addService(googletag.pubads()).setTargeting("lok","2003"); 
+
+googletag.enableServices();
+ googletag.display("ad_653caa59-6bcc-4f45-92a8-34d761cb4113"); 
+ googletag.display("ad_dddf99b7-ac56-4d0d-9b4f-8e6e77aa406d"); 
+
+});
+</script>
+
+
+
+<script type="text/javascript">
+var FTranslate = new function() {
+	// constructor params are private
+	_str = {};
+	_str['advertentiedoorgoogle'] = 'Advertentie door Google'
+	_str['advertentiesdoorgoogle'] = 'Advertenties door Google'
+	_str['gesponsordelinks'] = 'Gesponsorde links'
+	_str['TxtVorige'] = 'Vorige'
+	_str['TxtVolgende'] = 'Volgende'
+	_str['toevoegen'] = 'Toevoegen'
+	_str['Geselecteerd'] = 'Geselecteerd'
+	_str['TxtAllesDeselecteren'] = 'Alles deselecteren'
+	_str['Selecteer_een_of_meerdere_opties'] = 'Selecteer één of meerdere opties'
+	_str['notitietoevoegen'] = 'Notitie toevoegen'
+	_str['notitiewijzigen'] = 'Notitie wijzigen'
+	_str['ErrorBewaardObjectLimitGallery'] = '<p class="notify-error"><strong>LET OP!</strong> U hebt het maximum van {0} woningen bewaard. Verwijder eerst een of meer <a href="/mijn/bewaard/">bewaarde woningen</a> om weer nieuwe woningen te kunnen bewaren.</p>'
+	// public accessor function
+	this.Get = function(key) {
+		var ret = _str[key];
+		if (typeof (ret) === 'undefined') ret = '';
+		return ret;
+	}
+}
+</script>
+  <script type="text/javascript">// FTranslate.Get('advertentiedoorgoogle') FTranslate.Get('advertentiesdoorgoogle') FTranslate.Get('gesponsordelinks')</script>
+<script type="text/javascript" src="//static.funda.nl/resources/javascript.ashx?keys=/js/jquery-1.8.3.min.js|/js/global.js|/js/popup.js|/js/GASearchAnalytics.js|/js/social-login.js|/js/dropdown.js|/js/preloader.js|/js/jquery-jtemplates-0.7.8.min.js|/js/jquery.ba-hashchange-1.3.min.js|/js/common/funda.common.min.js|/js/funda.nl.resultlist.js|/js/bewaren.js|/js/libs/bb-ld.js|/js/libs/smooth-scroll.js|/js/modules/template.js|/js/modules/tour.js|/js/modules/prompt.js&hash=2978247583"></script>
+
+
+<script>(function($, d){$.each(readyQ, function(i, f) { $(f) });$.each(bindReadyQ, function(i, f) { $(d).bind("ready", f) })})(jQuery, document);</script>
+
+</body>
+</html>

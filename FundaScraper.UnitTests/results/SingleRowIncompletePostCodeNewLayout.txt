@@ -1,0 +1,3220 @@
+﻿
+<!DOCTYPE html>
+
+<html class="js supports-placeholder fonts-loaded" lang="nl">
+
+<head prefix="og: http://ogp.me/ns#">
+    <title>Huizen te koop in Lijnden [funda]</title>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a0d846db61","applicationID":"9180254","transactionName":"YwZTZUVRWBJRUkVfXlpMf15FXVcNWUtUUh4e","queueTime":0,"applicationTime":147,"ttGuid":"AFA1F8308C617C5C","agent":"js-agent.newrelic.com/nr-768.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a0d846db61","applicationID":"9040792","transactionName":"YwZTZUVRWBJRUkVfXlpMfGd0H3kDWlRSQmNREERdQ3xfEkRyXlhFRgxdXVJCGSheVVRO","queueTime":0,"applicationTime":123,"ttGuid":"CA7C1C081B3D08D2","agent":"js-agent.newrelic.com/nr-768.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+    <meta name="description" content="Bekijk alle 1 huizen die te koop staan in Lijnden op funda." />
+<meta name="robots" content="NOODP" />
+<meta name="google" content="nositelinkssearchbox" />
+<meta name="apple-itunes-app" content="app-id=367593127" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="application-name" content="funda" />
+
+    <script src="//cdn.optimizely.com/js/2925410175.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <link rel="canonical" href="http://beta.funda.nl/koop/lijnden/" />
+
+    <link rel="dns-prefetch" href="http://zb.funda.info" />
+<link rel="dns-prefetch" href="http://cloud.funda.nl" />
+<link rel="dns-prefetch" href="http://assets.fstatic.nl" />
+<link rel="dns-prefetch" href="http://mt0.funda.nl/" />
+<link rel="dns-prefetch" href="http://mt1.funda.nl/" />
+<link rel="dns-prefetch" href="http://mt2.funda.nl/" />
+<link rel="dns-prefetch" href="http://mt3.funda.nl/" />
+<link rel="dns-prefetch" href="https://mts0.googleapis.com/" />
+<link rel="dns-prefetch" href="https://mts1.googleapis.com/" />
+<link rel="dns-prefetch" href="https://maps.gstatic.com/" />
+<link rel="dns-prefetch" href="http://cdn.floorplanner.com/" />
+    
+
+    <script>
+    (function() {
+        /*! grunt-grunticon Stylesheet Loader - v2.1.6 | https://github.com/filamentgroup/grunticon | (c) 2015 Scott Jehl, Filament Group, Inc. | MIT license. */
+		(function(e){function n(n,t,o,a){"use strict";var i=e.document.createElement("link"),r=t||e.document.getElementsByTagName("script")[0],d=e.document.styleSheets;return i.rel="stylesheet",i.href=n,i.media="only x",a&&(i.onload=a),r.parentNode.insertBefore(i,r),i.onloadcssdefined=function(e){for(var t,o=0;d.length>o;o++)d[o].href&&d[o].href.indexOf(n)>-1&&(t=!0);t?e():setTimeout(function(){i.onloadcssdefined(e)})},i.onloadcssdefined(function(){i.media=o||"all"}),i}function t(e,n){e.onload=function(){e.onload=null,n&&n.call(e)},"isApplicationInstalled"in navigator&&"onloadcssdefined"in e&&e.onloadcssdefined(n)}var o=function(a,i){"use strict";if(a&&3===a.length){var r=e.Image,d=!(!document.createElementNS||!document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||e.opera&&-1===navigator.userAgent.indexOf("Chrome")||-1!==navigator.userAgent.indexOf("Series40")),c=new r;c.onerror=function(){o.method="png",o.href=a[2],n(a[2])},c.onload=function(){var e=1===c.width&&1===c.height,r=a[e&&d?0:e?1:2];o.method=e&&d?"svg":e?"datapng":"png",o.href=r,t(n(r),i)},c.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",document.documentElement.className+=" grunticon"}};o.loadCSS=n,o.onloadCSS=t,e.grunticon=o})(this);(function(e,n){"use strict";var t=n.document,o="grunticon:",r=function(e){if(t.attachEvent?"complete"===t.readyState:"loading"!==t.readyState)e();else{var n=!1;t.addEventListener("readystatechange",function(){n||(n=!0,e())},!1)}},a=function(e){return n.document.querySelector('link[href$="'+e+'"]')},i=function(e){var n,t,r,a,i,c,d={};if(n=e.sheet,!n)return d;t=n.cssRules?n.cssRules:n.rules;for(var s=0;t.length>s;s++)r=t[s].cssText,a=o+t[s].selectorText,i=r.split(");")[0].match(/US\-ASCII\,([^"']+)/),i&&i[1]&&(c=decodeURIComponent(i[1]),d[a]=c);return d},c=function(e){var n,r,a;r="data-grunticon-embed";for(var i in e){a=i.slice(o.length);try{n=t.querySelectorAll(a+"["+r+"]")}catch(c){continue}if(n.length)for(var d=0;n.length>d;d++)n[d].innerHTML=e[i],n[d].style.backgroundImage="none",n[d].removeAttribute(r)}return n},d=function(n){"svg"===e.method&&r(function(){c(i(a(e.href))),"function"==typeof n&&n()})};e.embedIcons=c,e.getCSS=a,e.getIcons=i,e.ready=r,e.svgLoadedCallback=d,e.embedSVG=d})(grunticon,this);(function(e,n){"use strict";var t=n.document,o=function(e,t){var o=new n.XMLHttpRequest;return"withCredentials"in o?o.open("GET",e,!0):n.XDomainRequest!==void 0&&(o=new n.XDomainRequest,o.open("GET",e)),t&&(o.onload=t),o.send(),o},r=function(n){"svg"===e.method&&e.ready(function(){o(e.href,function(){var o=t.createElement("style");o.innerHTML=this.responseText;var r=e.getCSS(e.href);r&&(r.parentNode.insertBefore(o,r),r.parentNode.removeChild(r),e.embedIcons(e.getIcons(o)),"function"==typeof n&&n())})})};e.ajaxGet=o,e.svgLoadedCORSCallback=r,e.embedSVGCors=r})(grunticon,this);
+        
+		grunticon(['//assets.fstatic.nl/635/assets/components/app-icons/icons.data.svg.css',
+		           '//assets.fstatic.nl/635/assets/components/app-icons/icons.data.png.css',
+                   '//assets.fstatic.nl/635/assets/components/app-icons/icons.fallback.css'], grunticon.svgLoadedCORSCallback);
+    }());
+</script>
+<noscript>
+    <link rel="stylesheet" href="//assets.fstatic.nl/635/assets/components/app-icons/icons.fallback.css">
+</noscript>
+    
+    <!--[if lt IE 9]>
+<script>
+    (function (d, a) { var l = a.length; while(l--){ d.createElement(a[l]); } }(document,
+        ['HEADER', 'NAV', 'SECTION', 'FOOTER', 'ARTICLE', 'MAIN', 'FIGCAPTION', 'FIGURE', 'ASIDE']));
+</script>
+<![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="//assets.fstatic.nl/635/assets/index.css" />
+    <link rel="icon" sizes="192x192" href="//assets.fstatic.nl/635/assets/funda-icon-192.png">
+    <link rel="icon" type="image/x-icon" href="//assets.fstatic.nl/635/assets/favicon.ico">
+    <link rel="apple-touch-icon" href="//assets.fstatic.nl/635/assets/funda-icon-180.png"/>
+    <link rel="manifest" href="//assets.fstatic.nl/635/assets/manifest.json" />
+</head>
+
+<body role="document">
+
+
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-NPB6HG&userId=9d8f1524-a91e-4c68-b433-d2da3e0567a0&isAnonymous=false&language=nl" 
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+    // Fill GtmDataLayer with data
+    gtmDataLayer = [];
+        gtmDataLayer.push({'userId' : '9d8f1524-a91e-4c68-b433-d2da3e0567a0'});
+        gtmDataLayer.push({'isAnonymous' : 'false'});
+        gtmDataLayer.push({'language' : 'nl'});
+
+    // Initialize Google Tag Manager
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'gtmDataLayer', 'GTM-NPB6HG');
+</script>
+
+
+
+<header role="banner" class="app-header is-logged-in" data-component="app-header" data-expandible>
+    <div class="container">
+        <nav role="navigation" class="app-header-nav">
+                <h1 class="a11y-sr-only">Hoofdmenu</h1>
+                <a class="logo" rel="home" href="/koop/" title="Naar home" data-component="logo">
+                    <img alt="funda logo"
+                         src="//assets.fstatic.nl/635/assets/components/logo/funda-logo.svg"
+                         onerror="this.onerror = null; this.src = '//assets.fstatic.nl/635/assets/components/logo/funda-logo.svg'; ">
+                </a>
+                <button class="app-header-nav-button" data-expandible-handle>
+                    <span class="icon-user-menu-white app-header-nav-icon app-header-nav-icon-open"></span>
+                    <span class="icon-close-white app-header-nav-icon app-header-nav-icon-close"></span>
+                    <span class="app-header-nav-closed a11y-sr-only">Open menu</span>
+                    <span class="app-header-nav-opened a11y-sr-only">Sluit menu</span>
+                </button>
+                    <ul class="app-header-menu">
+                            <li>
+                                <a href="/mijn/bewaard/">
+                                        <span class="icon-heart-white app-header-menu-icon"></span>
+                                    Bewaard
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/mijn/nieuw/">
+                                        <span class="icon-alert-white app-header-menu-icon"></span>
+                                    Nieuw
+                                </a>
+                            </li>
+
+                            <li class="app-header-profile-item">
+                                <a href="/mijn/accountgegevens/">
+                                    <span class="icon-avatar-white app-header-menu-icon"></span>
+                                    <span class="link-text">Profiel</span>
+                                </a>
+                            </li>
+
+                            <li class="app-header-additional-menu">
+                                <ul>
+                                        <li>
+                                            <a href="/language/switchlanguage/?language=en&amp;returnUrl=%2Fkoop%2Flijnden%2Fbestaande-bouw%2F1-dag%2F"
+                                               >Funda in English</a>
+                                        </li>
+                                        <li>
+                                            <a href="/mijn/logout/"
+                                               >Uitloggen</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://help.funda.nl/hc/nl/categories/200207038"
+                                                 target="_blank"   >Help</a>
+                                        </li>
+                                </ul>
+                            </li>
+                    </ul>
+        </nav>
+    </div>
+</header>
+
+
+
+    
+
+
+    <main id="content" role="main">
+        
+
+
+<dialog data-component="dialog" data-dialog="user-form" data-isUserLoggedInUrl="/mijn/account/isuserloggedin/">
+    <div class="dialog-container">
+        <div class="dialog-content">
+            <button class="dialog-close-button" data-dialog-close>
+                <span class="button-text">Sluiten</span>
+                <span class="icon-close"></span>
+            </button>
+            <div data-dialog-body></div>
+        </div>
+    </div>
+</dialog>
+
+<form action="/koop/lijnden/bestaande-bouw/1-dag/" method="POST" class="search results-has-advertisement" data-search-results data-instant-search>
+    
+    <div data-component="search-header" data-search-header>
+    <div class="search-header-container">
+        <div class="search-header-top-bar">
+            <div class="search-header-form">
+                    <fieldset class="search-header-location-filters">
+    <legend class="a11y-sr-only">Locatie</legend>
+    <div class="autocomplete" data-component="autocomplete"
+     data-autocomplete
+     data-autocomplete-url="http://zb.funda.info/frontend/geo/suggest/?query={queryPlaceholder}&amp;max=7&amp;type=koop&amp;niveau={niveauPlaceholder}&amp;parent={parentPlaceholder}&amp;timestamp="
+     data-autocomplete-alt-url="http://zb.funda.info/frontend/geo/alternatives/?query={queryPlaceholder}&amp;max=7&amp;niveau={niveauPlaceholder}&amp;type=koop&amp;parent={parentPlaceholder}&amp;timestamp="
+     data-search-results-handle="location">
+
+    <label for="autocomplete-input"  class="placeholder-fallback-label" data-placeholder-fallback>Locatie:</label>
+    <input type="search" name="filter_location"
+           id="autocomplete-input"
+           autocomplete="off"
+           autocorrect="off"
+           autocapitalize="off"
+           spellcheck="false"
+           role="combobox"
+           aria-expanded="true"
+           aria-autocomplete="list"
+           aria-owns="autocomplete-list"
+           class="autocomplete-input"
+           data-autocomplete-input
+           data-autocomplete-minlength="2"
+           value="Lijnden"
+           placeholder="Locatie"
+           data-autocomplete-niveau-id=""
+           data-autocomplete-parent-id=""
+           data-instant-search-output="zoekboxTextValue">
+
+    <button type="button" class="clear-autocomplete-icon icon-delete-greyLight" data-autocomplete-clear data-grunticon-embed></button>
+
+    <input type="hidden" name="autocomplete-identifier" data-instant-search-output="zoekboxHiddenValue" data-autocomplete-output value="2013">
+
+    <div data-autocomplete-suggestions
+         class="autocomplete-list-outer">
+        <h4 class="autocomplete-suggestion-message">Bedoel je misschien...</h4>
+        <ul role="listbox" class="autocomplete-list"
+            data-autocomplete-list>
+            <script type="template/html" data-autocomplete-item-template>
+                <li role="option"
+                    id="{id}"
+                    data-autocomplete-identifier="{identifier}"
+                    data-autocomplete-parent-id="{parentId}"
+                    data-autocomplete-niveau-id="{niveauId}"
+                    data-autocomplete-display-value="{displayValue}">
+                    <span data-autocomplete-match>{label}</span>
+                    <span class="autocomplete-description">{description}</span>
+                    <div class="autocomplete-count">{count}</div>
+                </li>
+            </script>
+        </ul>
+    </div>
+</div>
+
+    <div class="search-header-radius" data-search-header-radius-wrapper>
+        <div class="radius-filter custom-select " data-component="radius-filter" data-input-radius>
+    
+    <label for="Afstand" class="a11y-sr-only">Straal</label>
+    <select name="filter_Afstand" id="Afstand" >
+            <option  value="0">+ 0 km</option>
+            <option  value="1">+ 1 km</option>
+            <option  value="2">+ 2 km</option>
+            <option  value="5">+ 5 km</option>
+            <option  value="10">+ 10 km</option>
+            <option  value="15">+ 15 km</option>
+    </select>
+    <span class="icon-arrow-down-blue custom-select-icon" data-grunticon-embed></span>
+</div>
+    </div>
+        
+</fieldset>
+<div class="search-header-price" data-search-header-price-wrapper>
+
+    <fieldset class="price-range" data-component="price-range" data-range data-input-price data-instant-search-range>
+        <legend class="a11y-sr-only">Prijs</legend>
+
+        <div class="price-range-input price-range-from custom-select">
+            <label for="price-range-from">van</label>
+            <select id="price-range-from" name="filter_FundaKoopPrijsVan" data-range-min data-instant-search-handle>
+                    <option  value="0">€ 0</option>
+                    <option  value="50000">€ 50.000</option>
+                    <option  value="75000">€ 75.000</option>
+                    <option  value="100000">€ 100.000</option>
+                    <option  value="125000">€ 125.000</option>
+                    <option  value="150000">€ 150.000</option>
+                    <option  value="175000">€ 175.000</option>
+                    <option  value="200000">€ 200.000</option>
+                    <option  value="225000">€ 225.000</option>
+                    <option  value="250000">€ 250.000</option>
+                    <option  value="275000">€ 275.000</option>
+                    <option  value="300000">€ 300.000</option>
+                    <option  value="325000">€ 325.000</option>
+                    <option  value="350000">€ 350.000</option>
+                    <option  value="375000">€ 375.000</option>
+                    <option  value="400000">€ 400.000</option>
+                    <option  value="450000">€ 450.000</option>
+                    <option  value="500000">€ 500.000</option>
+                    <option  value="550000">€ 550.000</option>
+                    <option  value="600000">€ 600.000</option>
+                    <option  value="650000">€ 650.000</option>
+                    <option  value="700000">€ 700.000</option>
+                    <option  value="750000">€ 750.000</option>
+                    <option  value="800000">€ 800.000</option>
+                    <option  value="900000">€ 900.000</option>
+                    <option  value="1000000">€ 1.000.000</option>
+                    <option  value="1250000">€ 1.250.000</option>
+                    <option  value="1500000">€ 1.500.000</option>
+                    <option  value="2000000">€ 2.000.000</option>
+            </select>
+            <span class="icon-arrow-down-blue custom-select-icon"></span>
+        </div>
+
+        <div class="price-range-input price-range-to custom-select">
+            <label for="price-range-to">tot</label>
+            <select id="price-range-to" name="filter_FundaKoopPrijsTot" data-range-max data-instant-search-handle>
+                    <option  value="50000">€ 50.000</option>
+                    <option  value="75000">€ 75.000</option>
+                    <option  value="100000">€ 100.000</option>
+                    <option  value="125000">€ 125.000</option>
+                    <option  value="150000">€ 150.000</option>
+                    <option  value="175000">€ 175.000</option>
+                    <option  value="200000">€ 200.000</option>
+                    <option  value="225000">€ 225.000</option>
+                    <option  value="250000">€ 250.000</option>
+                    <option  value="275000">€ 275.000</option>
+                    <option  value="300000">€ 300.000</option>
+                    <option  value="325000">€ 325.000</option>
+                    <option  value="350000">€ 350.000</option>
+                    <option  value="375000">€ 375.000</option>
+                    <option  value="400000">€ 400.000</option>
+                    <option  value="450000">€ 450.000</option>
+                    <option  value="500000">€ 500.000</option>
+                    <option  value="550000">€ 550.000</option>
+                    <option  value="600000">€ 600.000</option>
+                    <option  value="650000">€ 650.000</option>
+                    <option  value="700000">€ 700.000</option>
+                    <option  value="750000">€ 750.000</option>
+                    <option  value="800000">€ 800.000</option>
+                    <option  value="900000">€ 900.000</option>
+                    <option  value="1000000">€ 1.000.000</option>
+                    <option  value="1250000">€ 1.250.000</option>
+                    <option  value="1500000">€ 1.500.000</option>
+                    <option  value="2000000">€ 2.000.000</option>
+                    <option selected value="ignore_filter">Geen maximum</option>
+            </select>
+            <span class="icon-arrow-down-blue custom-select-icon"></span>
+        </div>
+
+    </fieldset>
+</div>
+
+
+
+                <div class="search-header-submit">
+                    <button class="button-primary" type="submit"><span class="icon-search-blue"></span></button>
+                </div>
+            </div>
+            <button class="search-header-open-sidebar button-secondary" type="button" data-sidebar-handle>
+                <span class="icon-filter-blue" data-grunticon-embed></span>
+                Filters
+            </button>
+        </div>
+    </div>
+
+    
+
+    <div class="search-header-container" data-instant-search-output="subheader">
+        <div class="search-header-list-actions">
+    <div class="search-header-result-count">1 resultaat</div>
+    <div class="search-header-sort-and-view-types">
+
+        <fieldset class="search-header-sort">
+    <legend class="a11y-sr-only">Sorteer op</legend>
+    <div class="search-header-sort-select">
+        <label for="sort">Sorteer op:</label>
+        <select data-sorting id="sort" name="sort" data-instant-search-handle>
+
+                    <option selected value="sorteer-relevantie_Descending">Relevantie &#8595;</option>
+                    <option value="sorteer-datum_Descending">Datum</option>
+                    <option value="sorteer-prijs_Ascending">Vraagprijs</option>
+                    <option value="sorteer-woonopp_Descending">Woonopp.</option>
+                    <option value="sorteer-perceelopp_Descending">Perceelopp.</option>
+                    <option value="sorteer-kamers_Descending">Kamers</option>
+                    <option value="sorteer-plaats_Ascending">Plaats</option>
+                    <option value="sorteer-postcode_Ascending">Postcode</option>
+                    <option value="sorteer-adres_Ascending">Adres</option>
+        </select>
+    </div>
+</fieldset>
+
+                <div class="search-header-view-types">
+                    <a class="search-header-view-type search-header-map-view" href="/koop/kaart/#/lijnden/bestaande-bouw/1-dag/"><span class="icon-location-blue"></span> Kaart</a>
+                    <a class="search-header-view-type search-header-list-view is-active">Lijst</a>
+                </div>
+
+    </div>
+</div>
+    </div>
+</div>
+
+
+<div class="save-search-expandible container"
+        data-expandible="saveSearch"
+        data-expandible-on-blur="close">
+        <a href="/mijn/savedsearch/"
+            class="save-search-handle"
+            data-expandible-handle="saveSearch"
+            data-save-search-handle="expandible">
+            <span class="expandible-handle-icon icon-alert-blue" data-grunticon-embed></span>
+            <span class="expandible-handle-icon icon-minus-blue" data-grunticon-embed></span>
+            Bewaar zoekopdracht
+        </a>
+        <div class="save-search-container" data-save-search="expandible"></div>
+    </div>    <div class="container search-main">
+        <!--Results-->
+        <div class="search-output instant-search-output" data-instant-search-output="results">
+            
+            
+                    <ul class="search-results" data-search-results-lists>
+
+<li>
+    <div class="search-result" data-open-url="/koop/lijnden/parkeergelegenheid-49673044-lynderdijk/">
+<div class="user-save-object " data-component="user-save-object" data-save-object>
+    <a href="/mijn/objectactions/saveobject/?internalId=a553d535-736c-40ab-ae6a-04a440f90281&amp;tinyId=49673044"
+       class="user-object-action-handle user-save-handle add-handle"
+       data-save-object-handle="add">
+		    <span class="user-object-action-icon icon-heart-semi-filled"></span>
+		    <span class="user-object-action-icon icon-heart-filled-white"></span>
+        <span class="handle-text">Bewaren</span>
+    </a>
+    <a href="/mijn/objectactions/removesavedobject/?internalId=a553d535-736c-40ab-ae6a-04a440f90281&amp;tinyId=49673044"
+		class="user-object-action-handle user-save-handle remove-handle"
+		data-save-object-handle="remove">
+		    <span class="user-object-action-icon icon-heart-semi-filled"></span>
+		    <span class="user-object-action-icon icon-heart-filled-white"></span>
+        <span class="handle-text">Bewaard</span>
+    </a>
+</div>
+
+<div class="search-result-media">
+    <div class="search-result-image">
+<img alt="Lynderdijk" data-image-error-fallback="//assets.fstatic.nl/635/assets/components/image-error-fallback/no-photo-medium.png" sizes="(max-width: 500px) 100vw,228px" src="http://cloud.funda.nl/valentina_media/061/046/832_middel.jpg" srcset="http://cloud.funda.nl/valentina_media/061/046/832_180x120.jpg 180w, http://cloud.funda.nl/valentina_media/061/046/832_360x240.jpg 360w, http://cloud.funda.nl/valentina_media/061/046/832_720x480.jpg 720w" />
+
+    </div>
+
+
+</div>
+
+        <div class="search-result-content">
+            <div class="search-result-content-inner">
+<div class="search-result-header">
+        <a href="/koop/lijnden/parkeergelegenheid-49673044-lynderdijk/">
+            <h3 class="search-result-title">
+                Lynderdijk
+                <small class="search-result-subtitle">
+                    1175 Lijnden
+                </small>
+            </h3>
+        </a>
+</div>
+<span class="search-result-info">
+    <span class="search-result-price">
+        € 49.500 k.k.        
+    </span>
+    
+    <s class="search-result-info-small"></s>
+
+</span><span class="search-result-info">
+    <span class="search-result-price">
+                
+    </span>
+    
+    <s class="search-result-info-small"></s>
+
+</span><span class="search-result-info">
+    
+        <span title="Woonoppervlakte"></span>        
+                <span title="Perceeloppervlakte"></span>
+        <span class="search-result-info-small">sinds vandaag</span>
+</span>
+
+
+
+
+
+
+        <a class="search-result-makelaar" href="http://www.funda.nl/makelaars/amsterdam/24463-keij-en-stefels/">
+                <span class="search-result-makelaar-icon icon-logo-nvm"></span>
+            <span class="search-result-makelaar-name">Keij &amp; Stefels</span>
+        </a>
+
+
+            </div>
+            <ul class="labels">
+            <li class="label label-nieuw">Nieuw</li>
+
+</ul>
+
+
+        </div>
+    </div>  
+</li>
+
+
+        </ul>
+
+
+        </div>
+        <!--Filters-->
+        
+<div class="search-sidebar"
+     data-component="search-sidebar"
+     data-search-sidebar
+     aria-expanded="false">
+
+    <div class="search-sidebar-header">
+        <h3>Filters</h3>
+        <button type="button" data-sidebar-handle class="button-secondary close-search-sidebar" data-search-results-sidebar-close>
+            <span class="icon-close-blue" data-grunticon-embed></span>
+            Sluiten
+        </button>
+    </div>
+    
+<div class="save-search-flyout">
+    <div class="filter-flyout filter-closed"
+        data-filter-flyout=""
+        data-filter-flyout-single-select=""
+        data-component="filter-flyout">
+        <a href="/mijn/savedsearch/"
+            class="filter-open-flyout button-secondary save-search-flyout-handle"
+            data-filter-open-flyout=""
+            data-save-search-handle="flyout">
+            <span class="expandible-handle-icon icon-alert-blue" data-grunticon-embed></span>
+            Bewaar zoekopdracht
+        </a>
+        <div class="filter-flyout-panel column-1"
+            data-filter-flyout-panel=""
+            aria-expanded="true">search-header-price search-range
+            <div class="filter-flyout-backdrop" data-filter-flyout-backdrop=""></div>
+   
+            <div class="save-search-wrapper">
+                <div class="save-search-container" data-save-search="flyout"></div>
+                <button class="button-secondary-alternative cancel-save-search-flyout-action" type="button" data-filter-close-flyout>Annuleren</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="search-header-inputs" data-search-header-inputs></div>
+
+
+<div class="filter-common filter-flyout filter-closed  "
+     
+     
+     data-filter-flyout data-component="filter-flyout">
+
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            Buurt
+            <span class="icon-open-flyout icon-arrow-right-blue" data-grunticon-embed></span>
+            <p class="object-type-filter-targets">Lijnden, ...</p>
+        </button>
+
+    <div class="filter-flyout-panel column-1" data-filter-flyout-panel>
+        <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+        <ul>
+                <li>
+                    <fieldset>
+                        <legend>Buurt</legend>
+
+                        
+
+                            <ul>
+                                    <li class="   "
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="WijkNaam-Lijnden" name="filter_WijkNaam" value="Lijnden" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="WijkNaam-Lijnden">
+                                            Lijnden
+                                            <span class="count" data-instant-search-count="WijkNaam-Lijnden">1 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                    </fieldset>
+                </li>
+        </ul>
+    </div>
+    <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+    <script type="template/html" data-flyout-active-item-template>
+        <li data-flyout-active-item data-filter-id="{id}">
+            <label data-search-submit-active
+                   for="{id}"
+                   class="flyout-active-option button-clear-filter-option button-secondary">
+                <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+            </label>
+        </li>
+    </script>
+</div>
+<div class="filter-common radio-group search-filter    "
+     
+     data-object-type-filter
+     data-radio-group="" data-nested-filter data-expandible>
+    <fieldset>
+        <legend>Soort aanbod</legend>
+        <ul data-radio-group-items class="filter-options-list">
+            
+            <li class="radio-group-default">
+                <input type="radio" class="custom-radio" id="SoortObjectId-geen" name="filter_SoortObjectId"
+                       data-radio-group-default=""
+                       data-radio-group-input=""
+                       data-instant-search-handle
+                       value=""
+                       data-object-type-non-relevant-filters=' AanwezigheidVan-18 AanwezigheidVan-19 AanwezigheidVan-20 AanwezigheidVan-21 AanwezigheidVan-22'
+                       checked> 
+
+                    <label class="label-text radio-group-label" for="SoortObjectId-geen">Filter verwijderen</label>
+                </li>
+
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               data-object-type-non-relevant-filters=' AanwezigheidVan-18 AanwezigheidVan-19 AanwezigheidVan-20 AanwezigheidVan-21 AanwezigheidVan-22'
+                               class="custom-radio" id="SoortObjectId-1" name="filter_SoortObjectId" value="1" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="SoortObjectId-1">
+                            Woonhuis
+                            <span class="count" data-instant-search-count="SoortObjectId-1">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="SoortObjectId-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Woonhuis
+                        </label>
+
+
+<div class="filter-common filter-flyout   "
+     
+     
+     data-filter-flyout data-component="filter-flyout">
+
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            <span class="icon-open-flyout icon-plus-blue" data-grunticon-embed></span>
+            Specificeer
+        </button>
+
+    <div class="filter-flyout-panel " data-filter-flyout-panel>
+        <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+        <ul>
+                <li>
+                    <fieldset>
+                        <legend>Soort huis</legend>
+
+                        
+
+                            <ul>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="soortWoningId-6" name="filter_soortWoningId" value="6" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="soortWoningId-6">
+                                            Bungalow
+                                            <span class="count" data-instant-search-count="soortWoningId-6">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="soortWoningId-1" name="filter_soortWoningId" value="1" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="soortWoningId-1">
+                                            Eengezinswoning
+                                            <span class="count" data-instant-search-count="soortWoningId-1">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="soortWoningId-8" name="filter_soortWoningId" value="8" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="soortWoningId-8">
+                                            Grachtenpand
+                                            <span class="count" data-instant-search-count="soortWoningId-8">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="soortWoningId-3" name="filter_soortWoningId" value="3" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="soortWoningId-3">
+                                            Herenhuis
+                                            <span class="count" data-instant-search-count="soortWoningId-3">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="soortWoningId-12" name="filter_soortWoningId" value="12" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="soortWoningId-12">
+                                            Landgoed
+                                            <span class="count" data-instant-search-count="soortWoningId-12">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="soortWoningId-5" name="filter_soortWoningId" value="5" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="soortWoningId-5">
+                                            Landhuis
+                                            <span class="count" data-instant-search-count="soortWoningId-5">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="soortWoningId-10" name="filter_soortWoningId" value="10" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="soortWoningId-10">
+                                            Stacaravan
+                                            <span class="count" data-instant-search-count="soortWoningId-10">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="soortWoningId-4" name="filter_soortWoningId" value="4" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="soortWoningId-4">
+                                            Villa
+                                            <span class="count" data-instant-search-count="soortWoningId-4">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="soortWoningId-7" name="filter_soortWoningId" value="7" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="soortWoningId-7">
+                                            Woonboerderij
+                                            <span class="count" data-instant-search-count="soortWoningId-7">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="soortWoningId-9" name="filter_soortWoningId" value="9" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="soortWoningId-9">
+                                            Woonboot
+                                            <span class="count" data-instant-search-count="soortWoningId-9">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="soortWoningId-14" name="filter_soortWoningId" value="14" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="soortWoningId-14">
+                                            Woonwagen
+                                            <span class="count" data-instant-search-count="soortWoningId-14">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                    </fieldset>
+                </li>
+                <li>
+                    <fieldset>
+                        <legend>Type woning</legend>
+
+                        
+
+                            <ul>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeWoningId-3" name="filter_typeWoningId" value="3" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeWoningId-3">
+                                            2-onder-1-kapwoning
+                                            <span class="count" data-instant-search-count="typeWoningId-3">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeWoningId-6" name="filter_typeWoningId" value="6" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeWoningId-6">
+                                            Eindwoning
+                                            <span class="count" data-instant-search-count="typeWoningId-6">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeWoningId-8" name="filter_typeWoningId" value="8" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeWoningId-8">
+                                            Geschakelde 2-onder-1-kapwoning
+                                            <span class="count" data-instant-search-count="typeWoningId-8">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeWoningId-2" name="filter_typeWoningId" value="2" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeWoningId-2">
+                                            Geschakelde woning
+                                            <span class="count" data-instant-search-count="typeWoningId-2">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeWoningId-7" name="filter_typeWoningId" value="7" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeWoningId-7">
+                                            Halfvrijstaande woning
+                                            <span class="count" data-instant-search-count="typeWoningId-7">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeWoningId-5" name="filter_typeWoningId" value="5" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeWoningId-5">
+                                            Hoekwoning
+                                            <span class="count" data-instant-search-count="typeWoningId-5">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeWoningId-4" name="filter_typeWoningId" value="4" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeWoningId-4">
+                                            Tussenwoning
+                                            <span class="count" data-instant-search-count="typeWoningId-4">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeWoningId-9" name="filter_typeWoningId" value="9" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeWoningId-9">
+                                            Verspringende woning
+                                            <span class="count" data-instant-search-count="typeWoningId-9">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeWoningId-1" name="filter_typeWoningId" value="1" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeWoningId-1">
+                                            Vrijstaande woning
+                                            <span class="count" data-instant-search-count="typeWoningId-1">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                    </fieldset>
+                </li>
+        </ul>
+    </div>
+    <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+    <script type="template/html" data-flyout-active-item-template>
+        <li data-flyout-active-item data-filter-id="{id}">
+            <label data-search-submit-active
+                   for="{id}"
+                   class="flyout-active-option button-clear-filter-option button-secondary">
+                <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+            </label>
+        </li>
+    </script>
+</div>
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               data-object-type-non-relevant-filters=' AanwezigheidVan-18 AanwezigheidVan-19 AanwezigheidVan-20 AanwezigheidVan-21 AanwezigheidVan-22'
+                               class="custom-radio" id="SoortObjectId-2" name="filter_SoortObjectId" value="2" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="SoortObjectId-2">
+                            Appartement
+                            <span class="count" data-instant-search-count="SoortObjectId-2">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="SoortObjectId-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Appartement
+                        </label>
+
+
+<div class="filter-common filter-flyout   "
+     
+     
+     data-filter-flyout data-component="filter-flyout">
+
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            <span class="icon-open-flyout icon-plus-blue" data-grunticon-embed></span>
+            Specificeer
+        </button>
+
+    <div class="filter-flyout-panel " data-filter-flyout-panel>
+        <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+        <ul>
+                <li>
+                    <fieldset>
+                        <legend>Soort appartement</legend>
+
+                        
+
+                            <ul>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="SoortAppartementId-6" name="filter_SoortAppartementId" value="6" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="SoortAppartementId-6">
+                                            Beneden + bovenwoning
+                                            <span class="count" data-instant-search-count="SoortAppartementId-6">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="SoortAppartementId-2" name="filter_SoortAppartementId" value="2" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="SoortAppartementId-2">
+                                            Benedenwoning
+                                            <span class="count" data-instant-search-count="SoortAppartementId-2">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="SoortAppartementId-1" name="filter_SoortAppartementId" value="1" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="SoortAppartementId-1">
+                                            Bovenwoning
+                                            <span class="count" data-instant-search-count="SoortAppartementId-1">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="SoortAppartementId-11" name="filter_SoortAppartementId" value="11" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="SoortAppartementId-11">
+                                            Dubbel benedenhuis
+                                            <span class="count" data-instant-search-count="SoortAppartementId-11">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="SoortAppartementId-4" name="filter_SoortAppartementId" value="4" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="SoortAppartementId-4">
+                                            Galerijflat
+                                            <span class="count" data-instant-search-count="SoortAppartementId-4">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="SoortAppartementId-3" name="filter_SoortAppartementId" value="3" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="SoortAppartementId-3">
+                                            Maisonnette
+                                            <span class="count" data-instant-search-count="SoortAppartementId-3">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="SoortAppartementId-8" name="filter_SoortAppartementId" value="8" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="SoortAppartementId-8">
+                                            Penthouse
+                                            <span class="count" data-instant-search-count="SoortAppartementId-8">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="SoortAppartementId-5" name="filter_SoortAppartementId" value="5" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="SoortAppartementId-5">
+                                            Portiekflat
+                                            <span class="count" data-instant-search-count="SoortAppartementId-5">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="SoortAppartementId-9" name="filter_SoortAppartementId" value="9" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="SoortAppartementId-9">
+                                            Portiekwoning
+                                            <span class="count" data-instant-search-count="SoortAppartementId-9">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="SoortAppartementId-10" name="filter_SoortAppartementId" value="10" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="SoortAppartementId-10">
+                                            Studentenkamer
+                                            <span class="count" data-instant-search-count="SoortAppartementId-10">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="SoortAppartementId-12" name="filter_SoortAppartementId" value="12" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="SoortAppartementId-12">
+                                            Tussenverdieping
+                                            <span class="count" data-instant-search-count="SoortAppartementId-12">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                    </fieldset>
+                </li>
+                <li>
+                    <fieldset>
+                        <legend>Type woning</legend>
+
+                        
+
+                            <ul>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeAppartementId-4" name="filter_typeAppartementId" value="4" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeAppartementId-4">
+                                            Bel-etage
+                                            <span class="count" data-instant-search-count="typeAppartementId-4">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeAppartementId-3" name="filter_typeAppartementId" value="3" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeAppartementId-3">
+                                            Corridorflat
+                                            <span class="count" data-instant-search-count="typeAppartementId-3">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeAppartementId-6" name="filter_typeAppartementId" value="6" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeAppartementId-6">
+                                            Dubbel bovenhuis
+                                            <span class="count" data-instant-search-count="typeAppartementId-6">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeAppartementId-1" name="filter_typeAppartementId" value="1" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeAppartementId-1">
+                                            Service flat
+                                            <span class="count" data-instant-search-count="typeAppartementId-1">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeAppartementId-5" name="filter_typeAppartementId" value="5" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeAppartementId-5">
+                                            Souterrain
+                                            <span class="count" data-instant-search-count="typeAppartementId-5">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="typeAppartementId-7" name="filter_typeAppartementId" value="7" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="typeAppartementId-7">
+                                            Verzorgingsflat
+                                            <span class="count" data-instant-search-count="typeAppartementId-7">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                    </fieldset>
+                </li>
+        </ul>
+    </div>
+    <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+    <script type="template/html" data-flyout-active-item-template>
+        <li data-flyout-active-item data-filter-id="{id}">
+            <label data-search-submit-active
+                   for="{id}"
+                   class="flyout-active-option button-clear-filter-option button-secondary">
+                <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+            </label>
+        </li>
+    </script>
+</div>
+
+                    </li>
+                    <li class="radio-group-item " data-radio-group-item>
+                        <input type="radio"
+                               data-object-type-non-relevant-filters=' AantalKamers totaleWoonOppervlakteVan LiggingId Energielabel bouwPeriodeId AanwezigheidVan-1 AanwezigheidVan-2 AanwezigheidVan-3 AanwezigheidVan-5 AanwezigheidVan-6 AanwezigheidVan-7 AanwezigheidVan-8 AanwezigheidVan-9 AanwezigheidVan-10 AanwezigheidVan-11 AanwezigheidVan-12 AanwezigheidVan-13 AanwezigheidVan-14 AanwezigheidVan-15 AanwezigheidVan-16 AanwezigheidVan-17'
+                               class="custom-radio" id="SoortObjectId-3" name="filter_SoortObjectId" value="3" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="SoortObjectId-3">
+                            Parkeergelegenheid
+                            <span class="count" data-instant-search-count="SoortObjectId-3">1 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="SoortObjectId-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Parkeergelegenheid
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               data-object-type-non-relevant-filters=' AantalKamers totaleWoonOppervlakteVan LiggingId Energielabel bouwPeriodeId AanwezigheidVan'
+                               class="custom-radio" id="SoortObjectId-4" name="filter_SoortObjectId" value="4" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="SoortObjectId-4">
+                            Bouwgrond
+                            <span class="count" data-instant-search-count="SoortObjectId-4">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="SoortObjectId-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Bouwgrond
+                        </label>
+
+
+<div class="filter-common filter-flyout   "
+     
+     
+     data-filter-flyout data-component="filter-flyout">
+
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            <span class="icon-open-flyout icon-plus-blue" data-grunticon-embed></span>
+            Specificeer
+        </button>
+
+    <div class="filter-flyout-panel column-1" data-filter-flyout-panel>
+        <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+        <ul>
+                <li>
+                    <fieldset>
+                        <legend>Bouwrijp</legend>
+
+                        
+
+                            <ul>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="IndBouwrijpId-1" name="filter_IndBouwrijpId" value="1" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="IndBouwrijpId-1">
+                                            Bouwrijp
+                                            <span class="count" data-instant-search-count="IndBouwrijpId-1">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="IndBouwrijpId-2" name="filter_IndBouwrijpId" value="2" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="IndBouwrijpId-2">
+                                            Niet bouwrijp
+                                            <span class="count" data-instant-search-count="IndBouwrijpId-2">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                    </fieldset>
+                </li>
+        </ul>
+    </div>
+    <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+    <script type="template/html" data-flyout-active-item-template>
+        <li data-flyout-active-item data-filter-id="{id}">
+            <label data-search-submit-active
+                   for="{id}"
+                   class="flyout-active-option button-clear-filter-option button-secondary">
+                <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+            </label>
+        </li>
+    </script>
+</div>
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               data-object-type-non-relevant-filters=' AantalKamers totaleWoonOppervlakteVan LiggingId Energielabel bouwPeriodeId AanwezigheidVan-1 AanwezigheidVan-2 AanwezigheidVan-3 AanwezigheidVan-5 AanwezigheidVan-6 AanwezigheidVan-7 AanwezigheidVan-8 AanwezigheidVan-9 AanwezigheidVan-10 AanwezigheidVan-11 AanwezigheidVan-12 AanwezigheidVan-13 AanwezigheidVan-14 AanwezigheidVan-15 AanwezigheidVan-16 AanwezigheidVan-17'
+                               class="custom-radio" id="SoortObjectId-10" name="filter_SoortObjectId" value="10" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="SoortObjectId-10">
+                            Opslagruimte
+                            <span class="count" data-instant-search-count="SoortObjectId-10">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="SoortObjectId-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Opslagruimte
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               data-object-type-non-relevant-filters=' AantalKamers totaleWoonOppervlakteVan LiggingId Energielabel bouwPeriodeId AanwezigheidVan-1 AanwezigheidVan-2 AanwezigheidVan-3 AanwezigheidVan-5 AanwezigheidVan-6 AanwezigheidVan-7 AanwezigheidVan-8 AanwezigheidVan-9 AanwezigheidVan-10 AanwezigheidVan-11 AanwezigheidVan-12 AanwezigheidVan-13 AanwezigheidVan-14 AanwezigheidVan-15 AanwezigheidVan-16 AanwezigheidVan-17'
+                               class="custom-radio" id="SoortObjectId-5" name="filter_SoortObjectId" value="5" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="SoortObjectId-5">
+                            Berging
+                            <span class="count" data-instant-search-count="SoortObjectId-5">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="SoortObjectId-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Berging
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               data-object-type-non-relevant-filters=' AantalKamers totaleWoonOppervlakteVan LiggingId Energielabel bouwPeriodeId AanwezigheidVan'
+                               class="custom-radio" id="SoortObjectId-8" name="filter_SoortObjectId" value="8" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="SoortObjectId-8">
+                            Ligplaats
+                            <span class="count" data-instant-search-count="SoortObjectId-8">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="SoortObjectId-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Ligplaats
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               data-object-type-non-relevant-filters=' AantalKamers totaleWoonOppervlakteVan LiggingId Energielabel bouwPeriodeId AanwezigheidVan'
+                               class="custom-radio" id="SoortObjectId-9" name="filter_SoortObjectId" value="9" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="SoortObjectId-9">
+                            Onderstuk
+                            <span class="count" data-instant-search-count="SoortObjectId-9">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="SoortObjectId-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Onderstuk
+                        </label>
+
+
+                    </li>
+
+
+
+            </ul>
+            
+                <button type="button" class="expandible-button more-options-button button-secondary" data-expandible-handle>
+                    <span class="icon-expandible icon-plus-blue" data-grunticon-embed></span>
+                    Alle soorten aanbod
+                </button>
+                <button type="button" class="expandible-button less-options-button button-secondary" data-expandible-handle>
+                    <span class="icon-expandible icon-close-blue" data-grunticon-embed></span>
+                    Minder soorten aanbod
+                </button>
+            
+        </fieldset>
+    
+
+
+    </div>
+<div class="filter-common radio-group search-filter   object-type-filter-target "
+     data-object-type-filter-target=AantalKamers
+     
+     data-radio-group="" data-nested-filter >
+    <fieldset>
+        <legend>Aantal kamers</legend>
+        <ul data-radio-group-items class="filter-options-list">
+            
+            <li class="radio-group-default">
+                <input type="radio" class="custom-radio" id="AantalKamers-geen" name="filter_AantalKamers"
+                       data-radio-group-default=""
+                       data-radio-group-input=""
+                       data-instant-search-handle
+                       value=""
+                       
+                       checked> 
+
+                    <label class="label-text radio-group-label" for="AantalKamers-geen">Filter verwijderen</label>
+                </li>
+
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="AantalKamers-1" name="filter_AantalKamers" value="1" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="AantalKamers-1">
+                            1 kamer
+                            <span class="count" data-instant-search-count="AantalKamers-1">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="AantalKamers-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>1 kamer
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="AantalKamers-2" name="filter_AantalKamers" value="2" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="AantalKamers-2">
+                            2+ kamers
+                            <span class="count" data-instant-search-count="AantalKamers-2">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="AantalKamers-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>2+ kamers
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="AantalKamers-3" name="filter_AantalKamers" value="3" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="AantalKamers-3">
+                            3+ kamers
+                            <span class="count" data-instant-search-count="AantalKamers-3">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="AantalKamers-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>3+ kamers
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="AantalKamers-4" name="filter_AantalKamers" value="4" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="AantalKamers-4">
+                            4+ kamers
+                            <span class="count" data-instant-search-count="AantalKamers-4">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="AantalKamers-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>4+ kamers
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="AantalKamers-5" name="filter_AantalKamers" value="5" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="AantalKamers-5">
+                            5+ kamers
+                            <span class="count" data-instant-search-count="AantalKamers-5">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="AantalKamers-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>5+ kamers
+                        </label>
+
+
+                    </li>
+
+
+<li class="radio-group-item radio-group-item-range" data-radio-group-item>
+    <div class="filter-common filter-flyout filter-flyout-range " data-component="filter-flyout" data-filter-flyout-range="" data-filter-flyout="">
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            <span class="icon-open-flyout icon-plus-blue" data-grunticon-embed></span>Specificeer
+        </button>
+        <div class="filter-flyout-panel" data-filter-flyout-panel>
+            <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+            <ul>
+                <li>
+                    <div data-range>
+                        <fieldset class="flyout-panel-range">
+                            <legend>Minimaal tot maximaal aantal kamers</legend>
+                            <input class="range-input" type="number" pattern="[0-9]*" step="1" id="AantalKamers-range-min" data-range-min="" min="0" data-range-input name="filter_AantalKamers-range-min" value="" placeholder="van" />
+                            <input class="range-input" type="number" pattern="[0-9]*" step="1" id="AantalKamers-range-max" data-range-max="" min="0" data-range-input name="filter_AantalKamers-range-max" value="" placeholder="tot" />
+                            <button data-range-submit type="button" class="button-primary range-submit-button">Specificeer</button>
+                        </fieldset>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+        <script type="template/html" data-flyout-active-item-template>
+            <li data-flyout-active-item data-filter-id="{id}">
+                <input type="radio" checked="checked" class="custom-radio">
+                <label for="{id}" class="flyout-active-option button-clear-filter-option button-secondary">
+                    <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+                </label>
+            </li>
+        </script>
+
+    </div>
+</li>
+
+
+
+            </ul>
+            
+            
+        </fieldset>
+    
+                <script type="template/html" data-range-template>
+                    <li class="radio-group-item is-checked" data-radio-group-item data-radio-group-range>
+                        <input type="radio" checked="checked" class="custom-radio" name="filter_AantalKamers" value="">
+                        <label for="AantalKamers-geen" class="label-remove">
+                            <span class="icon-close-blue" data-grunticon-embed></span><span class="a11y-sr-only">Verwijder</span>
+                            {min} t/m {max} kamers
+                        </label>
+                    </li>
+                </script>
+
+
+    </div>
+<div class="filter-common radio-group search-filter   object-type-filter-target "
+     data-object-type-filter-target=totaleWoonOppervlakteVan
+     
+     data-radio-group="" data-nested-filter >
+    <fieldset>
+        <legend>Woonoppervlakte</legend>
+        <ul data-radio-group-items class="filter-options-list">
+            
+            <li class="radio-group-default">
+                <input type="radio" class="custom-radio" id="totaleWoonOppervlakteVan-geen" name="filter_totaleWoonOppervlakteVan"
+                       data-radio-group-default=""
+                       data-radio-group-input=""
+                       data-instant-search-handle
+                       value=""
+                       
+                       checked> 
+
+                    <label class="label-text radio-group-label" for="totaleWoonOppervlakteVan-geen">Filter verwijderen</label>
+                </li>
+
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="totaleWoonOppervlakteVan-50" name="filter_totaleWoonOppervlakteVan" value="50" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="totaleWoonOppervlakteVan-50">
+                            50+ m&#178;
+                            <span class="count" data-instant-search-count="totaleWoonOppervlakteVan-50">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="totaleWoonOppervlakteVan-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>50+ m&#178;
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="totaleWoonOppervlakteVan-75" name="filter_totaleWoonOppervlakteVan" value="75" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="totaleWoonOppervlakteVan-75">
+                            75+ m&#178;
+                            <span class="count" data-instant-search-count="totaleWoonOppervlakteVan-75">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="totaleWoonOppervlakteVan-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>75+ m&#178;
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="totaleWoonOppervlakteVan-100" name="filter_totaleWoonOppervlakteVan" value="100" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="totaleWoonOppervlakteVan-100">
+                            100+ m&#178;
+                            <span class="count" data-instant-search-count="totaleWoonOppervlakteVan-100">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="totaleWoonOppervlakteVan-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>100+ m&#178;
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="totaleWoonOppervlakteVan-150" name="filter_totaleWoonOppervlakteVan" value="150" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="totaleWoonOppervlakteVan-150">
+                            150+ m&#178;
+                            <span class="count" data-instant-search-count="totaleWoonOppervlakteVan-150">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="totaleWoonOppervlakteVan-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>150+ m&#178;
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="totaleWoonOppervlakteVan-250" name="filter_totaleWoonOppervlakteVan" value="250" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="totaleWoonOppervlakteVan-250">
+                            250+ m&#178;
+                            <span class="count" data-instant-search-count="totaleWoonOppervlakteVan-250">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="totaleWoonOppervlakteVan-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>250+ m&#178;
+                        </label>
+
+
+                    </li>
+
+
+<li class="radio-group-item radio-group-item-range" data-radio-group-item>
+    <div class="filter-common filter-flyout filter-flyout-range " data-component="filter-flyout" data-filter-flyout-range="" data-filter-flyout="">
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            <span class="icon-open-flyout icon-plus-blue" data-grunticon-embed></span>Specificeer
+        </button>
+        <div class="filter-flyout-panel" data-filter-flyout-panel>
+            <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+            <ul>
+                <li>
+                    <div data-range>
+                        <fieldset class="flyout-panel-range">
+                            <legend>Minimale tot maximale woonoppervlakte</legend>
+                            <input class="range-input" type="number" pattern="[0-9]*" step="1" id="totaleWoonOppervlakteVan-range-min" data-range-min="" min="0" data-range-input name="filter_totaleWoonOppervlakteVan-range-min" value="" placeholder="van" />
+                            <input class="range-input" type="number" pattern="[0-9]*" step="1" id="totaleWoonOppervlakteVan-range-max" data-range-max="" min="0" data-range-input name="filter_totaleWoonOppervlakteVan-range-max" value="" placeholder="tot" />
+                            <button data-range-submit type="button" class="button-primary range-submit-button">Specificeer</button>
+                        </fieldset>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+        <script type="template/html" data-flyout-active-item-template>
+            <li data-flyout-active-item data-filter-id="{id}">
+                <input type="radio" checked="checked" class="custom-radio">
+                <label for="{id}" class="flyout-active-option button-clear-filter-option button-secondary">
+                    <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+                </label>
+            </li>
+        </script>
+
+    </div>
+</li>
+
+
+
+            </ul>
+            
+            
+        </fieldset>
+    
+                <script type="template/html" data-range-template>
+                    <li class="radio-group-item is-checked" data-radio-group-item data-radio-group-range>
+                        <input type="radio" checked="checked" class="custom-radio" name="filter_totaleWoonOppervlakteVan" value="">
+                        <label for="totaleWoonOppervlakteVan-geen" class="label-remove">
+                            <span class="icon-close-blue" data-grunticon-embed></span><span class="a11y-sr-only">Verwijder</span>
+                            {min} t/m {max}  m&#178;
+                        </label>
+                    </li>
+                </script>
+
+
+    </div>
+<div class="filter-common radio-group search-filter    "
+     
+     
+     data-radio-group="" data-nested-filter >
+    <fieldset>
+        <legend>Perceeloppervlakte</legend>
+        <ul data-radio-group-items class="filter-options-list">
+            
+            <li class="radio-group-default">
+                <input type="radio" class="custom-radio" id="PerceelOppervlakteVan-geen" name="filter_PerceelOppervlakteVan"
+                       data-radio-group-default=""
+                       data-radio-group-input=""
+                       data-instant-search-handle
+                       value=""
+                       
+                       checked> 
+
+                    <label class="label-text radio-group-label" for="PerceelOppervlakteVan-geen">Filter verwijderen</label>
+                </li>
+
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="PerceelOppervlakteVan-250" name="filter_PerceelOppervlakteVan" value="250" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="PerceelOppervlakteVan-250">
+                            250+ m&#178;
+                            <span class="count" data-instant-search-count="PerceelOppervlakteVan-250">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="PerceelOppervlakteVan-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>250+ m&#178;
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="PerceelOppervlakteVan-500" name="filter_PerceelOppervlakteVan" value="500" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="PerceelOppervlakteVan-500">
+                            500+ m&#178;
+                            <span class="count" data-instant-search-count="PerceelOppervlakteVan-500">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="PerceelOppervlakteVan-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>500+ m&#178;
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="PerceelOppervlakteVan-1000" name="filter_PerceelOppervlakteVan" value="1000" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="PerceelOppervlakteVan-1000">
+                            1.000+ m&#178;
+                            <span class="count" data-instant-search-count="PerceelOppervlakteVan-1000">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="PerceelOppervlakteVan-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>1.000+ m&#178;
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="PerceelOppervlakteVan-2500" name="filter_PerceelOppervlakteVan" value="2500" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="PerceelOppervlakteVan-2500">
+                            2.500+ m&#178;
+                            <span class="count" data-instant-search-count="PerceelOppervlakteVan-2500">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="PerceelOppervlakteVan-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>2.500+ m&#178;
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="PerceelOppervlakteVan-5000" name="filter_PerceelOppervlakteVan" value="5000" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="PerceelOppervlakteVan-5000">
+                            5.000+ m&#178;
+                            <span class="count" data-instant-search-count="PerceelOppervlakteVan-5000">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="PerceelOppervlakteVan-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>5.000+ m&#178;
+                        </label>
+
+
+                    </li>
+
+
+<li class="radio-group-item radio-group-item-range" data-radio-group-item>
+    <div class="filter-common filter-flyout filter-flyout-range " data-component="filter-flyout" data-filter-flyout-range="" data-filter-flyout="">
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            <span class="icon-open-flyout icon-plus-blue" data-grunticon-embed></span>Specificeer
+        </button>
+        <div class="filter-flyout-panel" data-filter-flyout-panel>
+            <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+            <ul>
+                <li>
+                    <div data-range>
+                        <fieldset class="flyout-panel-range">
+                            <legend>Minimale tot maximale perceeloppervlakte</legend>
+                            <input class="range-input" type="number" pattern="[0-9]*" step="1" id="PerceelOppervlakteVan-range-min" data-range-min="" min="0" data-range-input name="filter_PerceelOppervlakteVan-range-min" value="" placeholder="van" />
+                            <input class="range-input" type="number" pattern="[0-9]*" step="1" id="PerceelOppervlakteVan-range-max" data-range-max="" min="0" data-range-input name="filter_PerceelOppervlakteVan-range-max" value="" placeholder="tot" />
+                            <button data-range-submit type="button" class="button-primary range-submit-button">Specificeer</button>
+                        </fieldset>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+        <script type="template/html" data-flyout-active-item-template>
+            <li data-flyout-active-item data-filter-id="{id}">
+                <input type="radio" checked="checked" class="custom-radio">
+                <label for="{id}" class="flyout-active-option button-clear-filter-option button-secondary">
+                    <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+                </label>
+            </li>
+        </script>
+
+    </div>
+</li>
+
+
+
+            </ul>
+            
+            
+        </fieldset>
+    
+                <script type="template/html" data-range-template>
+                    <li class="radio-group-item is-checked" data-radio-group-item data-radio-group-range>
+                        <input type="radio" checked="checked" class="custom-radio" name="filter_PerceelOppervlakteVan" value="">
+                        <label for="PerceelOppervlakteVan-geen" class="label-remove">
+                            <span class="icon-close-blue" data-grunticon-embed></span><span class="a11y-sr-only">Verwijder</span>
+                            {min} t/m {max}  m&#178;
+                        </label>
+                    </li>
+                </script>
+
+
+    </div>
+<div class="filter-common radio-group search-filter is-expanded   "
+     
+     
+     data-radio-group=""  >
+    <fieldset>
+        <legend>Soort bouw</legend>
+        <ul data-radio-group-items class="filter-options-list">
+            
+            <li class="radio-group-default">
+                <input type="radio" class="custom-radio" id="bouwvormId-geen" name="filter_bouwvormId"
+                       data-radio-group-default=""
+                       data-radio-group-input=""
+                       data-instant-search-handle
+                       value=""
+                       
+                       > 
+
+                    <label class="label-text radio-group-label" for="bouwvormId-geen">Filter verwijderen</label>
+                </li>
+
+                    <li class="radio-group-item " data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="bouwvormId-2" name="filter_bouwvormId" value="2" data-radio-group-input checked data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="bouwvormId-2">
+                            Bestaande bouw
+                            <span class="count" data-instant-search-count="bouwvormId-2">1 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="bouwvormId-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Bestaande bouw
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="bouwvormId-1" name="filter_bouwvormId" value="1" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="bouwvormId-1">
+                            Nieuwbouw
+                            <span class="count" data-instant-search-count="bouwvormId-1">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="bouwvormId-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Nieuwbouw
+                        </label>
+
+
+                    </li>
+
+
+
+            </ul>
+            
+            
+        </fieldset>
+    
+
+
+    </div>
+
+<div class="filter-common filter-flyout filter-closed object-type-filter-target "
+     data-object-type-filter-target=bouwPeriodeId
+     
+     data-filter-flyout data-component="filter-flyout">
+
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            Bouwperiode
+            <span class="icon-open-flyout icon-arrow-right-blue" data-grunticon-embed></span>
+            <p class="object-type-filter-targets">voor 1906, 1906-1930, ...</p>
+        </button>
+
+    <div class="filter-flyout-panel column-1" data-filter-flyout-panel>
+        <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+        <ul>
+                <li>
+                    <fieldset>
+                        <legend>Bouwperiode</legend>
+
+                        
+
+                            <ul>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="bouwPeriodeId-5" name="filter_bouwPeriodeId" value="5" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="bouwPeriodeId-5">
+                                            voor 1906
+                                            <span class="count" data-instant-search-count="bouwPeriodeId-5">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="bouwPeriodeId-6" name="filter_bouwPeriodeId" value="6" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="bouwPeriodeId-6">
+                                            1906-1930
+                                            <span class="count" data-instant-search-count="bouwPeriodeId-6">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="bouwPeriodeId-7" name="filter_bouwPeriodeId" value="7" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="bouwPeriodeId-7">
+                                            1931-1944
+                                            <span class="count" data-instant-search-count="bouwPeriodeId-7">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="bouwPeriodeId-8" name="filter_bouwPeriodeId" value="8" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="bouwPeriodeId-8">
+                                            1945-1959
+                                            <span class="count" data-instant-search-count="bouwPeriodeId-8">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="bouwPeriodeId-9" name="filter_bouwPeriodeId" value="9" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="bouwPeriodeId-9">
+                                            1960-1970
+                                            <span class="count" data-instant-search-count="bouwPeriodeId-9">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="bouwPeriodeId-10" name="filter_bouwPeriodeId" value="10" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="bouwPeriodeId-10">
+                                            1971-1980
+                                            <span class="count" data-instant-search-count="bouwPeriodeId-10">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="bouwPeriodeId-11" name="filter_bouwPeriodeId" value="11" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="bouwPeriodeId-11">
+                                            1981-1990
+                                            <span class="count" data-instant-search-count="bouwPeriodeId-11">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="bouwPeriodeId-12" name="filter_bouwPeriodeId" value="12" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="bouwPeriodeId-12">
+                                            1991-2000
+                                            <span class="count" data-instant-search-count="bouwPeriodeId-12">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="bouwPeriodeId-13" name="filter_bouwPeriodeId" value="13" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="bouwPeriodeId-13">
+                                            2001-2010
+                                            <span class="count" data-instant-search-count="bouwPeriodeId-13">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="bouwPeriodeId-14" name="filter_bouwPeriodeId" value="14" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="bouwPeriodeId-14">
+                                            na 2010
+                                            <span class="count" data-instant-search-count="bouwPeriodeId-14">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                    </fieldset>
+                </li>
+        </ul>
+    </div>
+    <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+    <script type="template/html" data-flyout-active-item-template>
+        <li data-flyout-active-item data-filter-id="{id}">
+            <label data-search-submit-active
+                   for="{id}"
+                   class="flyout-active-option button-clear-filter-option button-secondary">
+                <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+            </label>
+        </li>
+    </script>
+</div>
+
+<div class="filter-common filter-flyout filter-closed object-type-filter-target "
+     data-object-type-filter-target=LiggingId
+     
+     data-filter-flyout data-component="filter-flyout">
+
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            Ligging
+            <span class="icon-open-flyout icon-arrow-right-blue" data-grunticon-embed></span>
+            <p class="object-type-filter-targets">Aan bosrand, Aan drukke weg, ...</p>
+        </button>
+
+    <div class="filter-flyout-panel column-1" data-filter-flyout-panel>
+        <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+        <ul>
+                <li>
+                    <fieldset>
+                        <legend>Ligging</legend>
+
+                        
+
+                            <ul>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-0" name="filter_LiggingId" value="0" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-0">
+                                            Aan bosrand
+                                            <span class="count" data-instant-search-count="LiggingId-0">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-3" name="filter_LiggingId" value="3" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-3">
+                                            Aan drukke weg
+                                            <span class="count" data-instant-search-count="LiggingId-3">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-2" name="filter_LiggingId" value="2" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-2">
+                                            Aan park
+                                            <span class="count" data-instant-search-count="LiggingId-2">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-4" name="filter_LiggingId" value="4" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-4">
+                                            Aan rustige weg
+                                            <span class="count" data-instant-search-count="LiggingId-4">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-11" name="filter_LiggingId" value="11" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-11">
+                                            Aan vaarwater
+                                            <span class="count" data-instant-search-count="LiggingId-11">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-1" name="filter_LiggingId" value="1" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-1">
+                                            Aan water
+                                            <span class="count" data-instant-search-count="LiggingId-1">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-8" name="filter_LiggingId" value="8" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-8">
+                                            Beschutte ligging
+                                            <span class="count" data-instant-search-count="LiggingId-8">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-10" name="filter_LiggingId" value="10" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-10">
+                                            Buiten bebouwde kom
+                                            <span class="count" data-instant-search-count="LiggingId-10">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-12" name="filter_LiggingId" value="12" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-12">
+                                            In bosrijke omgeving
+                                            <span class="count" data-instant-search-count="LiggingId-12">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-5" name="filter_LiggingId" value="5" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-5">
+                                            In centrum
+                                            <span class="count" data-instant-search-count="LiggingId-5">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-6" name="filter_LiggingId" value="6" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-6">
+                                            In woonwijk
+                                            <span class="count" data-instant-search-count="LiggingId-6">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-13" name="filter_LiggingId" value="13" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-13">
+                                            Landelijk gelegen
+                                            <span class="count" data-instant-search-count="LiggingId-13">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-9" name="filter_LiggingId" value="9" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-9">
+                                            Open ligging
+                                            <span class="count" data-instant-search-count="LiggingId-9">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="LiggingId-7" name="filter_LiggingId" value="7" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="LiggingId-7">
+                                            Vrij uitzicht
+                                            <span class="count" data-instant-search-count="LiggingId-7">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                    </fieldset>
+                </li>
+        </ul>
+    </div>
+    <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+    <script type="template/html" data-flyout-active-item-template>
+        <li data-flyout-active-item data-filter-id="{id}">
+            <label data-search-submit-active
+                   for="{id}"
+                   class="flyout-active-option button-clear-filter-option button-secondary">
+                <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+            </label>
+        </li>
+    </script>
+</div>
+
+<div class="filter-common filter-flyout filter-closed object-type-filter-target "
+     data-object-type-filter-target=Energielabel
+     
+     data-filter-flyout data-component="filter-flyout">
+
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            Energielabel
+            <span class="icon-open-flyout icon-arrow-right-blue" data-grunticon-embed></span>
+            <p class="object-type-filter-targets">A-label, B-label, ...</p>
+        </button>
+
+    <div class="filter-flyout-panel column-1" data-filter-flyout-panel>
+        <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+        <ul>
+                <li>
+                    <fieldset>
+                        <legend>Energielabel</legend>
+
+                        
+
+                            <ul>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Energielabel-A" name="filter_Energielabel" value="A" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Energielabel-A">
+                                            A-label
+                                            <span class="count" data-instant-search-count="Energielabel-A">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Energielabel-B" name="filter_Energielabel" value="B" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Energielabel-B">
+                                            B-label
+                                            <span class="count" data-instant-search-count="Energielabel-B">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Energielabel-C" name="filter_Energielabel" value="C" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Energielabel-C">
+                                            C-label
+                                            <span class="count" data-instant-search-count="Energielabel-C">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Energielabel-D" name="filter_Energielabel" value="D" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Energielabel-D">
+                                            D-label
+                                            <span class="count" data-instant-search-count="Energielabel-D">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Energielabel-E" name="filter_Energielabel" value="E" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Energielabel-E">
+                                            E-label
+                                            <span class="count" data-instant-search-count="Energielabel-E">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Energielabel-F" name="filter_Energielabel" value="F" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Energielabel-F">
+                                            F-label
+                                            <span class="count" data-instant-search-count="Energielabel-F">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Energielabel-G" name="filter_Energielabel" value="G" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Energielabel-G">
+                                            G-label
+                                            <span class="count" data-instant-search-count="Energielabel-G">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                    </fieldset>
+                </li>
+        </ul>
+    </div>
+    <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+    <script type="template/html" data-flyout-active-item-template>
+        <li data-flyout-active-item data-filter-id="{id}">
+            <label data-search-submit-active
+                   for="{id}"
+                   class="flyout-active-option button-clear-filter-option button-secondary">
+                <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+            </label>
+        </li>
+    </script>
+</div>
+
+<div class="filter-common filter-flyout filter-closed object-type-filter-target "
+     data-object-type-filter-target=AanwezigheidVan
+     
+     data-filter-flyout data-component="filter-flyout">
+
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            Aanwezigheid van
+            <span class="icon-open-flyout icon-arrow-right-blue" data-grunticon-embed></span>
+            <p class="object-type-filter-targets">Balkon, Bedrijfsruimte, ...</p>
+        </button>
+
+    <div class="filter-flyout-panel column-1-break" data-filter-flyout-panel>
+        <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+        <ul>
+                <li>
+                    <fieldset>
+                        <legend>Aanwezigheid van</legend>
+
+                        
+
+                            <ul>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-1>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-1" name="filter_AanwezigheidVan" value="1" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-1">
+                                            Balkon
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-1">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-4" name="filter_AanwezigheidVan" value="4" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-4">
+                                            Bedrijfsruimte
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-4">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-3>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-3" name="filter_AanwezigheidVan" value="3" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-3">
+                                            Cv-ketel
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-3">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-13>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-13" name="filter_AanwezigheidVan" value="13" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-13">
+                                            Dakterras
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-13">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-12>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-12" name="filter_AanwezigheidVan" value="12" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-12">
+                                            Duurzame energie
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-12">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target  is-disabled "
+                                        data-object-type-filter-target=AanwezigheidVan-18>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-18" name="filter_AanwezigheidVan" value="18" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-18">
+                                            Elektra
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-18">1 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target  is-disabled has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-19>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-19" name="filter_AanwezigheidVan" value="19" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-19">
+                                            Elektrische deur
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-19">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-6>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-6" name="filter_AanwezigheidVan" value="6" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-6">
+                                            Garage
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-6">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-8>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-8" name="filter_AanwezigheidVan" value="8" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-8">
+                                            Jacuzzi
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-8">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-5>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-5" name="filter_AanwezigheidVan" value="5" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-5">
+                                            Kluswoning
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-5">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-9>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-9" name="filter_AanwezigheidVan" value="9" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-9">
+                                            Lift
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-9">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                            <ul>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-2>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-2" name="filter_AanwezigheidVan" value="2" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-2">
+                                            Lig-/zitbad
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-2">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-10>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-10" name="filter_AanwezigheidVan" value="10" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-10">
+                                            Monumentaal pand
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-10">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-11>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-11" name="filter_AanwezigheidVan" value="11" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-11">
+                                            Open haard
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-11">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-14>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-14" name="filter_AanwezigheidVan" value="14" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-14">
+                                            Sauna
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-14">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-15>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-15" name="filter_AanwezigheidVan" value="15" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-15">
+                                            Schuur/berging
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-15">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-16>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-16" name="filter_AanwezigheidVan" value="16" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-16">
+                                            Stoomcabine
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-16">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target  is-disabled has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-20>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-20" name="filter_AanwezigheidVan" value="20" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-20">
+                                            Stromend water
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-20">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-7>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-7" name="filter_AanwezigheidVan" value="7" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-7">
+                                            Tuin
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-7">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target  is-disabled has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-21>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-21" name="filter_AanwezigheidVan" value="21" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-21">
+                                            Verwarming
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-21">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target  is-disabled has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-22>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-22" name="filter_AanwezigheidVan" value="22" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-22">
+                                            Vliering
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-22">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="object-type-filter-target   has-no-results"
+                                        data-object-type-filter-target=AanwezigheidVan-17>
+                                        <input type="checkbox" class="custom-checkbox" id="AanwezigheidVan-17" name="filter_AanwezigheidVan" value="17" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="AanwezigheidVan-17">
+                                            Zwembad
+                                            <span class="count" data-instant-search-count="AanwezigheidVan-17">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                    </fieldset>
+                </li>
+        </ul>
+    </div>
+    <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+    <script type="template/html" data-flyout-active-item-template>
+        <li data-flyout-active-item data-filter-id="{id}">
+            <label data-search-submit-active
+                   for="{id}"
+                   class="flyout-active-option button-clear-filter-option button-secondary">
+                <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+            </label>
+        </li>
+    </script>
+</div>
+
+<div class="filter-common filter-flyout filter-closed  "
+     
+     
+     data-filter-flyout data-component="filter-flyout">
+
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            Toegankelijkheid
+            <span class="icon-open-flyout icon-arrow-right-blue" data-grunticon-embed></span>
+            <p class="object-type-filter-targets">Aangepaste woning, Gehandicaptenwoning, ...</p>
+        </button>
+
+    <div class="filter-flyout-panel column-1" data-filter-flyout-panel>
+        <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+        <ul>
+                <li>
+                    <fieldset>
+                        <legend>Toegankelijkheid</legend>
+
+                        
+
+                            <ul>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Toegankelijkheid-aangepastewoning" name="filter_Toegankelijkheid" value="aangepastewoning" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Toegankelijkheid-aangepastewoning">
+                                            Aangepaste woning
+                                            <span class="count" data-instant-search-count="Toegankelijkheid-aangepastewoning">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Toegankelijkheid-gehandicaptenwoning" name="filter_Toegankelijkheid" value="gehandicaptenwoning" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Toegankelijkheid-gehandicaptenwoning">
+                                            Gehandicaptenwoning
+                                            <span class="count" data-instant-search-count="Toegankelijkheid-gehandicaptenwoning">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Toegankelijkheid-seniorenwoning" name="filter_Toegankelijkheid" value="seniorenwoning" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Toegankelijkheid-seniorenwoning">
+                                            Seniorenwoning
+                                            <span class="count" data-instant-search-count="Toegankelijkheid-seniorenwoning">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                    </fieldset>
+                </li>
+        </ul>
+    </div>
+    <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+    <script type="template/html" data-flyout-active-item-template>
+        <li data-flyout-active-item data-filter-id="{id}">
+            <label data-search-submit-active
+                   for="{id}"
+                   class="flyout-active-option button-clear-filter-option button-secondary">
+                <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+            </label>
+        </li>
+    </script>
+</div>
+
+<div class="filter-common filter-flyout filter-closed  "
+     
+     
+     data-filter-flyout data-component="filter-flyout">
+
+        <button type="button" class="filter-open-flyout button-secondary" data-filter-open-flyout>
+            Extra&#39;s
+            <span class="icon-open-flyout icon-arrow-right-blue" data-grunticon-embed></span>
+            <p class="object-type-filter-targets">360&#176; foto&#39;s, Plattegrond, ...</p>
+        </button>
+
+    <div class="filter-flyout-panel column-1" data-filter-flyout-panel>
+        <div class="filter-flyout-backdrop" data-filter-flyout-backdrop></div>
+        <ul>
+                <li>
+                    <fieldset>
+                        <legend>Extra&#39;s</legend>
+
+                        
+
+                            <ul>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Producten-2" name="filter_Producten" value="2" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Producten-2">
+                                            360&#176; foto&#39;s
+                                            <span class="count" data-instant-search-count="Producten-2">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Producten-1" name="filter_Producten" value="1" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Producten-1">
+                                            Plattegrond
+                                            <span class="count" data-instant-search-count="Producten-1">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                                    <li class="   has-no-results"
+                                        >
+                                        <input type="checkbox" class="custom-checkbox" id="Producten-3" name="filter_Producten" value="3" 
+                                                data-flyout-item
+                                                data-instant-search-handle>
+                                        <label class="label-text" for="Producten-3">
+                                            Video
+                                            <span class="count" data-instant-search-count="Producten-3">0 </span>
+                                            <span class="a11y-sr-only">Resultaten</span>
+                                        </label>
+                                    </li>
+                            </ul>
+                    </fieldset>
+                </li>
+        </ul>
+    </div>
+    <ul class="flyout-active-options filter-clear-list " data-flyout-active-items></ul>
+
+    <script type="template/html" data-flyout-active-item-template>
+        <li data-flyout-active-item data-filter-id="{id}">
+            <label data-search-submit-active
+                   for="{id}"
+                   class="flyout-active-option button-clear-filter-option button-secondary">
+                <span class="icon-flyout-active-option icon-close-blue" data-grunticon-embed></span> {label}
+            </label>
+        </li>
+    </script>
+</div>
+<div class="filter-common radio-group search-filter is-expanded   "
+     
+     
+     data-radio-group=""  >
+    <fieldset>
+        <legend>Dagen op funda</legend>
+        <ul data-radio-group-items class="filter-options-list">
+            
+            <li class="radio-group-default">
+                <input type="radio" class="custom-radio" id="dagenOpFunda-geen" name="filter_dagenOpFunda"
+                       data-radio-group-default=""
+                       data-radio-group-input=""
+                       data-instant-search-handle
+                       value=""
+                       
+                       > 
+
+                    <label class="label-text radio-group-label" for="dagenOpFunda-geen">Filter verwijderen</label>
+                </li>
+
+                    <li class="radio-group-item " data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="dagenOpFunda-1" name="filter_dagenOpFunda" value="1" data-radio-group-input checked data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="dagenOpFunda-1">
+                            Sinds 1 dag
+                            <span class="count" data-instant-search-count="dagenOpFunda-1">1 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="dagenOpFunda-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Sinds 1 dag
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item " data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="dagenOpFunda-3" name="filter_dagenOpFunda" value="3" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="dagenOpFunda-3">
+                            Sinds 3 dagen
+                            <span class="count" data-instant-search-count="dagenOpFunda-3">1 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="dagenOpFunda-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Sinds 3 dagen
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item " data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="dagenOpFunda-5" name="filter_dagenOpFunda" value="5" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="dagenOpFunda-5">
+                            Sinds 5 dagen
+                            <span class="count" data-instant-search-count="dagenOpFunda-5">1 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="dagenOpFunda-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Sinds 5 dagen
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item " data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="dagenOpFunda-10" name="filter_dagenOpFunda" value="10" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="dagenOpFunda-10">
+                            Sinds 10 dagen
+                            <span class="count" data-instant-search-count="dagenOpFunda-10">1 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="dagenOpFunda-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Sinds 10 dagen
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item " data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="dagenOpFunda-30" name="filter_dagenOpFunda" value="30" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="dagenOpFunda-30">
+                            Sinds 30 dagen
+                            <span class="count" data-instant-search-count="dagenOpFunda-30">1 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="dagenOpFunda-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Sinds 30 dagen
+                        </label>
+
+
+                    </li>
+
+
+
+            </ul>
+            
+            
+        </fieldset>
+    
+
+
+    </div>
+<div class="filter-common radio-group search-filter    "
+     
+     
+     data-radio-group=""  >
+    <fieldset>
+        <legend>Open Huis</legend>
+        <ul data-radio-group-items class="filter-options-list">
+            
+            <li class="radio-group-default">
+                <input type="radio" class="custom-radio" id="OpenHuis-geen" name="filter_OpenHuis"
+                       data-radio-group-default=""
+                       data-radio-group-input=""
+                       data-instant-search-handle
+                       value=""
+                       
+                       checked> 
+
+                    <label class="label-text radio-group-label" for="OpenHuis-geen">Filter verwijderen</label>
+                </li>
+
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="OpenHuis-1" name="filter_OpenHuis" value="1" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="OpenHuis-1">
+                            Alle open huizen
+                            <span class="count" data-instant-search-count="OpenHuis-1">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="OpenHuis-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Alle open huizen
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="OpenHuis-3" name="filter_OpenHuis" value="3" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="OpenHuis-3">
+                            Komend weekend
+                            <span class="count" data-instant-search-count="OpenHuis-3">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="OpenHuis-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Komend weekend
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="OpenHuis-2" name="filter_OpenHuis" value="2" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="OpenHuis-2">
+                            Vandaag
+                            <span class="count" data-instant-search-count="OpenHuis-2">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="OpenHuis-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Vandaag
+                        </label>
+
+
+                    </li>
+
+
+
+            </ul>
+            
+            
+        </fieldset>
+    
+
+
+    </div>
+<div class="filter-common radio-group search-filter    "
+     
+     
+     data-radio-group=""  >
+    <fieldset>
+        <legend>Veiling</legend>
+        <ul data-radio-group-items class="filter-options-list">
+            
+            <li class="radio-group-default">
+                <input type="radio" class="custom-radio" id="Veiling-geen" name="filter_Veiling"
+                       data-radio-group-default=""
+                       data-radio-group-input=""
+                       data-instant-search-handle
+                       value=""
+                       
+                       checked> 
+
+                    <label class="label-text radio-group-label" for="Veiling-geen">Filter verwijderen</label>
+                </li>
+
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="Veiling-1" name="filter_Veiling" value="1" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="Veiling-1">
+                            Alle veilingen
+                            <span class="count" data-instant-search-count="Veiling-1">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="Veiling-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Alle veilingen
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="Veiling-2" name="filter_Veiling" value="2" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="Veiling-2">
+                            Vandaag
+                            <span class="count" data-instant-search-count="Veiling-2">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="Veiling-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Vandaag
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="Veiling-3" name="filter_Veiling" value="3" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="Veiling-3">
+                            Komende week
+                            <span class="count" data-instant-search-count="Veiling-3">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="Veiling-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Komende week
+                        </label>
+
+
+                    </li>
+                    <li class="radio-group-item has-no-results" data-radio-group-item>
+                        <input type="radio"
+                               
+                               class="custom-radio" id="Veiling-4" name="filter_Veiling" value="4" data-radio-group-input  data-instant-search-handle>
+                        <label class="label-text radio-group-label" for="Veiling-4">
+                            Komende maand
+                            <span class="count" data-instant-search-count="Veiling-4">0 </span>
+                            <span class="a11y-sr-only">Resultaten</span>
+                        </label>
+                        <label class="label-remove" for="Veiling-geen">
+                            <span class="icon-close-blue" data-grunticon-embed></span>
+                            <span class="a11y-sr-only">Verwijder</span>Komende maand
+                        </label>
+
+
+                    </li>
+
+
+
+            </ul>
+            
+            
+        </fieldset>
+    
+
+
+    </div>
+
+
+<div class="filter-object-status">
+    <span class="filter-object-status-label">Te koop/verkocht</span>
+    <div class="filter-option-object-status filter-option-object-status-for-sale">
+        Te koop
+    </div>
+    <a data-filter-object-status-sold class="filter-option-object-status filter-option-object-status-sold" href="/koop/verkocht/lijnden/bestaande-bouw/1-dag/">
+        Verkocht
+    </a>
+</div>
+    <!--(Sticky) Filter Close-->
+    <button type="button"
+            data-search-close-flyout
+            class="search-close-flyout button-tertiary">
+        <span class="icon-arrow-left-blue"></span>
+        Terug
+    </button>
+
+</div>
+
+<!--(Sticky) Filter Submit-->
+<button type="button" class="search-sticky-button submit-button button-primary" data-sidebar-handle>
+    Toon <span data-instant-search-output="total">Resultaten</span>
+</button>
+
+
+
+        <!--(Sticky) Filter Submit-->
+        
+           
+        <!--Pager-->
+        <div class="instant-search-output" data-instant-search-output="pagination">
+            <ul class="pagination" data-component="pagination">
+
+</ul>
+
+        </div>
+
+        
+<div class="makelaar-ads container"
+     data-makelaar-ads
+     data-makelaars-ads-valentina-baseurl="http://www.funda.nl"
+     data-makelaars-ads-beta-baseurl="http://www.funda.nl">
+    <div class="divider" id="makelaarAdsDivider"></div>
+    <h4 makelaar-ads-header class="makelaar-ads-header">Makelaar in de buurt</h4>
+
+    <a data-makelaar-ads-item class="makelaar-ads-item" target="_blank" data-globalid="" rel="nofollow">
+        <div class="makelaar-ads-image-wrap">
+            <img data-makelaar-ads-logo class="makelaar-ads-image">
+        </div>
+        <div class="makelaar-ads-text">
+            <h4 data-makelaar-ads-title class="makelaar-ads-title"></h4>
+            <p data-makelaar-ads-body class="makelaar-ads-body">
+                <span data-makelaar-ads-line1 class="makelaar-ads-body-line1"></span>
+                <span data-makelaar-ads-line2 class="makelaar-ads-body-line2"></span>
+            </p>
+            <p data-makelaar-ads-website class="makelaar-ads-website"></p>
+        </div>
+    </a>
+
+    <a data-makelaar-ads-item class="makelaar-ads-item" target="_blank" data-globalid="" rel="nofollow">
+        <div class="makelaar-ads-image-wrap">
+            <img data-makelaar-ads-logo class="makelaar-ads-image">
+        </div>
+        <div class="makelaar-ads-text">
+            <h4 data-makelaar-ads-title class="makelaar-ads-title"></h4>
+            <p data-makelaar-ads-body class="makelaar-ads-body">
+                <span data-makelaar-ads-line1 class="makelaar-ads-body-line1"></span>
+                <span data-makelaar-ads-line2 class="makelaar-ads-body-line2"></span>
+            </p>
+            <p data-makelaar-ads-website class="makelaar-ads-website"></p>
+        </div>
+    </a>
+
+    <a data-makelaar-ads-item class="makelaar-ads-item" target="_blank" data-globalid="" rel="nofollow">
+        <div class="makelaar-ads-image-wrap">
+            <img data-makelaar-ads-logo class="makelaar-ads-image">
+        </div>
+        <div class="makelaar-ads-text">
+            <h4 data-makelaar-ads-title class="makelaar-ads-title"></h4>
+            <p data-makelaar-ads-body class="makelaar-ads-body">
+                <span data-makelaar-ads-line1 class="makelaar-ads-body-line1"></span>
+                <span data-makelaar-ads-line2 class="makelaar-ads-body-line2"></span>
+            </p>
+            <p data-makelaar-ads-website class="makelaar-ads-website"></p>
+        </div>
+    </a>
+</div>
+
+    </div>
+</form>
+    </main>
+
+    
+    
+
+<footer role="contentinfo" class="app-footer" data-component="app-footer">
+    <nav class="app-footer-nav">
+        <div class="container">
+            <div class="app-footer-main-menu">
+                <div class="app-footer-main-menu-items">
+                    <div class="app-footer-items">
+                        
+<span class="app-footer-item-title">English</span>
+    <a href="/language/switchlanguage/?language=en&amp;returnUrl=%2Fkoop%2Flijnden%2Fbestaande-bouw%2F1-dag%2F" 
+       >Funda in English</a>
+
+                        
+<span class="app-footer-item-title">Makelaars</span>
+    <a href="http://www.fundadesk.nl" 
+       >Funda desk</a>
+
+                    </div>
+                    <div class="app-footer-items">
+                        
+<span class="app-footer-item-title">Service</span>
+    <a href="/mijn/logout/" 
+       >Uitloggen</a>
+    <a href="https://help.funda.nl/hc/nl/categories/200207038" 
+        target="_blank" >Help</a>
+    <a href="/contact/" 
+       >Contact</a>
+
+                    </div>
+                </div>
+                <div class="app-footer-main-menu-items">
+                    <div class="app-footer-items">
+                        
+<span class="app-footer-item-title">Huis op funda</span>
+    <a href="/huis-plaatsen/" 
+       >Huis plaatsen</a>
+    <a href="/makelaars/" 
+       >NVM makelaar</a>
+    <a href="/koop/bladeren/" 
+       >Bladeren</a>
+
+                    </div>
+                    <div class="app-footer-items">
+                        
+<span class="app-footer-item-title">Funda</span>
+    <a href="/about/default.aspx/?pagina=/nl/algemene-teksten-funda-sites/fundanl/over-funda" 
+       >Over funda</a>
+    <a href="/vacatures/" 
+       >Vacatures</a>
+    <a href="/adverteren/" 
+       >Adverteren</a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="app-footer-secondary-menu">
+            
+<ul class="app-footer-social-menu">
+        <li>
+          <a href="http://www.facebook.com/funda"  target="_blank" >
+                <span class="app-footer-social-menu-icon icon-facebook-blue" data-grunticon-embed></span>
+                <span class="icon-text">Facebook</span>
+            </a>
+        </li>
+        <li>
+          <a href="http://www.twitter.com/funda"  target="_blank" >
+                <span class="app-footer-social-menu-icon icon-twitter-blue" data-grunticon-embed></span>
+                <span class="icon-text">Twitter</span>
+            </a>
+        </li>
+        <li>
+          <a href="http://www.pinterest.com/funda/"  target="_blank" >
+                <span class="app-footer-social-menu-icon icon-pinterest-blue" data-grunticon-embed></span>
+                <span class="icon-text">Pinterest</span>
+            </a>
+        </li>
+</ul>
+
+            <ul class="app-footer-legal-menu">
+                    <li><a href="/privacybeleid/">Privacy</a></li>
+                    <li><a href="/cookiebeleid/">Cookies</a></li>
+                    <li><a href="/gebruiksvoorwaarden/">Voorwaarden</a></li>
+            </ul>
+            <p class="app-footer-legal-text">&copy; 2000&ndash;2015 Funda Real Estate B.V.</p>
+            <p class="app-footer-legal-text">funda is powered by NVM
+                <a href="http://www.nvm.nl"><span class="app-footer-legal-icon icon-logo-nvm-blue"></span></a>
+            </p>
+            <p class="app-footer-legal-text-short">
+                &copy; 2000&ndash;2015 funda &mdash; Powered by NVM
+            <a href="http://www.nvm.nl"><span class="app-footer-legal-icon icon-logo-nvm-blue"></span></a>
+            </p>
+
+        </div>
+    </div>
+</footer>
+
+    
+
+    
+
+    
+
+
+
+    <script>
+        if ('querySelector' in document && 'addEventListener' in window) {
+            document.write('<script src="//assets.fstatic.nl/635/assets/vendor.js"><\/script>');
+            document.write('<script src="//assets.fstatic.nl/635/assets/index.js"><\/script>');
+        }
+    </script>
+
+
+
+
+</body>
+</html>
+
