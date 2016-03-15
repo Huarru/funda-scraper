@@ -18,5 +18,10 @@ namespace FundaScraper
         {
             return document.Descendants(htmlElement).Where(d => !d.Attributes.Contains("class") || !d.Attributes["class"].Value.Contains(cssClass));
         }
+
+        public static IEnumerable<HtmlNode> GetNodesForAttribute(this HtmlNode document, string htmlElement, string attribute, string attributeValue)
+        {
+            return document.Descendants(htmlElement).Where(d => d.Attributes.Contains(attribute) && d.Attributes[attribute].Value.Contains(attributeValue));
+        }
     }
 }
